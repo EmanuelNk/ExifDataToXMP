@@ -1,0 +1,306 @@
+ExifTool Version Number         : 13.03
+File Name                       : st1.jpg
+Directory                       : .
+File Size                       : 207 kB
+File Modification Date/Time     : 2024:11:20 15:13:23+02:00
+File Access Date/Time           : 2024:11:20 15:13:25+02:00
+File Inode Change Date/Time     : 2024:11:20 15:13:23+02:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+XMP Toolkit                     : Image::ExifTool 12.16
+Approximate Focus Distance      : 5.96
+Distortion Correction Already Applied: True
+Firmware                        : 1.6.0
+Flash Compensation              : 0
+Image Number                    : 7534
+Lateral Chromatic Aberration Correction Already Applied: True
+Lens                            : RF50mm F1.2 L USM
+Lens Info                       : 50mm f/?
+Lens Serial Number              : 1050001470
+Serial Number                   : 242026003651
+Vignette Correction Already Applied: True
+Format                          : image/jpeg
+Lens Model                      : RF50mm F1.2 L USM
+Color Class                     : 1 (Winner)
+PM Version                      : PM6
+Prefs                           : Tagged:0, ColorClass:1, Rating:0, FrameNum:007534
+Tagged                          : No
+Create Date                     : 2022:12:16 05:14:53.87-08:00
+Creator Tool                    : Adobe Photoshop Lightroom Classic 12.1 (Macintosh)
+Label                           : Red
+Metadata Date                   : 2023:01:03 19:06:37-08:00
+Modify Date                     : 2023:01:03 19:06:37-08:00
+Derived From Document ID        : 10A52E20D00EDD1B6F5BDE65BE0CCE8E
+Derived From Original Document ID: 10A52E20D00EDD1B6F5BDE65BE0CCE8E
+Document ID                     : xmp.did:c182d5d3-bd38-4ac9-9458-3f207efb3abc
+History Action                  : derived, saved
+History Parameters              : converted from image/x-canon-cr3 to image/jpeg, saved to new location
+History Changed                 : /
+History Instance ID             : xmp.iid:c182d5d3-bd38-4ac9-9458-3f207efb3abc
+History Software Agent          : Adobe Photoshop Lightroom Classic 12.1 (Macintosh)
+History When                    : 2023:01:03 19:06:37-08:00
+Instance ID                     : xmp.iid:c182d5d3-bd38-4ac9-9458-3f207efb3abc
+Original Document ID            : 10A52E20D00EDD1B6F5BDE65BE0CCE8E
+Preserved File Name             : {shortstache™}{2022}{Lincoln}40273.CR3
+Already Applied                 : True
+Auto Lateral CA                 : 1
+Blacks 2012                     : +14
+Blue Hue                        : -25
+Blue Saturation                 : 0
+Camera Profile                  : Adobe Standard
+Camera Profile Digest           : 23A8FA817AB0E63610A09E90F3703131
+Clarity 2012                    : -7
+Color Grade Blending            : 100
+Color Grade Global Hue          : 31
+Color Grade Global Lum          : 0
+Color Grade Global Sat          : 2
+Color Grade Highlight Lum       : 0
+Color Grade Midtone Hue         : 197
+Color Grade Midtone Lum         : -7
+Color Grade Midtone Sat         : 6
+Color Grade Shadow Lum          : -17
+Color Noise Reduction           : 25
+Color Noise Reduction Detail    : 50
+Color Noise Reduction Smoothness: 50
+Compatible Version              : 251658240
+Contrast 2012                   : -8
+Crop Angle                      : 0
+Crop Bottom                     : 0.967979
+Crop Constrain To Warp          : 0
+Crop Left                       : 0.035995
+Crop Right                      : 0.839791
+Crop Top                        : 0.003894
+Defringe Green Amount           : 0
+Defringe Green Hue Hi           : 60
+Defringe Green Hue Lo           : 40
+Defringe Purple Amount          : 0
+Defringe Purple Hue Hi          : 70
+Defringe Purple Hue Lo          : 30
+Dehaze                          : +20
+Exposure 2012                   : +1.30
+Grain Amount                    : 0
+Green Hue                       : +40
+Green Saturation                : -5
+Has Crop                        : True
+Has Settings                    : True
+Highlights 2012                 : -49
+Hue Adjustment Aqua             : +11
+Hue Adjustment Blue             : -9
+Hue Adjustment Green            : -37
+Hue Adjustment Magenta          : +31
+Hue Adjustment Orange           : 0
+Hue Adjustment Purple           : +40
+Hue Adjustment Red              : +10
+Hue Adjustment Yellow           : -23
+Lens Manual Distortion Amount   : 0
+Lens Profile Digest             : 4A8D4E8EB18FADD3268738168AA75988
+Lens Profile Distortion Scale   : 70
+Lens Profile Enable             : 1
+Lens Profile Filename           : Canon (Canon RF 50mm F1.2 L USM) - RAW.lcp
+Lens Profile Is Embedded        : False
+Lens Profile Name               : Adobe (Canon RF 50mm F1.2 L USM)
+Lens Profile Setup              : Custom
+Lens Profile Vignetting Scale   : 200
+Look Amount                     : 1
+Look Group                      : Profiles
+Look Name                       : Adobe Color
+Look Parameters Camera Profile  : Adobe Standard
+Look Parameters Convert To Grayscale: False
+Look Parameters Look Table      : E1095149FDB39D7A057BAB208837E2E1
+Look Parameters Process Version : 11.0
+Look Parameters Tone Curve PV2012: 0, 0, 22, 16, 40, 35, 127, 127, 224, 230, 240, 246, 255, 255
+Look Parameters Version         : 15.1
+Look Supports Amount            : false
+Look Supports Monochrome        : false
+Look Supports Output Referred   : false
+Look UUID                       : B952C231111CD8E0ECCF14B86BAA7077
+Luminance Adjustment Aqua       : -11
+Luminance Adjustment Blue       : -10
+Luminance Adjustment Green      : -6
+Luminance Adjustment Magenta    : 0
+Luminance Adjustment Orange     : -3
+Luminance Adjustment Purple     : -3
+Luminance Adjustment Red        : -6
+Luminance Adjustment Yellow     : 0
+Luminance Noise Reduction Contrast: 0
+Luminance Noise Reduction Detail: 50
+Luminance Smoothing             : 25
+Mask Group Based Corr Mask Input Digest Version: 2
+Mask Group Based Corr Mask Model Version: 234881976
+Mask Group Based Corr Correction Name: Mask 1, Mask 2, Mask 3, Mask 4
+Mask Group Based Corr Correction Sync ID: 4057AC75535E4EEEBF0EE873DA517084, E516CE30FF404F08A8958FC41D50F855, 916EEFFC139640AFB220E82F46FDED48, 4EFA7CA5279E4F7F8E9274F17509036F
+Mask Group Based Corr Mask Mask Sub Category ID: 22
+Mask Group Based Corr Mask Angle: 0.336663
+Mask Group Based Corr Mask Bottom: 1.58579
+Mask Group Based Corr Mask Feather: 52
+Mask Group Based Corr Mask Flipped: false
+Mask Group Based Corr Mask Left : 0.012756
+Mask Group Based Corr Mask Midpoint: 50
+Mask Group Based Corr Mask Right: 1.15939
+Mask Group Based Corr Mask Roundness: 0
+Mask Group Based Corr Mask Top  : -0.65687
+Mask Group Based Corr Mask Version: 2
+Mask Group Based Corr Mask Full X: 0.314821
+Mask Group Based Corr Mask Full Y: 0.528687
+Mask Group Based Corr Mask Zero X: 0.980954
+Mask Group Based Corr Mask Zero Y: 0.52672
+Mask Group Based Corr Active    : true
+Mask Group Based Corr Amount    : 1
+Mask Group Based Corr Mask Input Digest: B599AA4E6EB7335A10B66B28B8DFBB0B
+Mask Group Based Corr Mask Mask Active: true
+Mask Group Based Corr Mask Mask Blend Mode: 0
+Mask Group Based Corr Mask Mask Digest: 0828C441BCA9B5460943659F37EFD7D6
+Mask Group Based Corr Mask Mask Inverted: false
+Mask Group Based Corr Mask Mask Name: Subject 1
+Mask Group Based Corr Mask Mask Sub Type: 1
+Mask Group Based Corr Mask Mask Sync ID: 5057B93867CC49379DE06854BFD1A152
+Mask Group Based Corr Mask Value: 1
+Mask Group Based Corr Mask Mask Version: 1
+Mask Group Based Corr Mask Origin: 819,641
+Mask Group Based Corr Mask Reference Point: 0.480385 0.520558
+Mask Group Based Corr Mask What : Mask/Image
+Mask Group Based Corr Mask Whole Image Area: 0/1,0/1,1920/1,2879/1
+Mask Group Based Corr Blacks 2012: 0
+Mask Group Based Corr Brightness: 0
+Mask Group Based Corr Clarity   : 0
+Mask Group Based Corr Clarity 2012: 0.215263
+Mask Group Based Corr Contrast  : 0
+Mask Group Based Corr Contrast 2012: 0
+Mask Group Based Corr Defringe  : 0
+Mask Group Based Corr Dehaze    : 0
+Mask Group Based Corr Exposure  : 0
+Mask Group Based Corr Exposure 2012: 0.02983
+Mask Group Based Corr Highlights 2012: 0
+Mask Group Based Corr Hue       : 0
+Mask Group Based Corr Luminance Noise: 0
+Mask Group Based Corr Moire     : 0
+Mask Group Based Corr Saturation: 0
+Mask Group Based Corr Shadows 2012: 0
+Mask Group Based Corr Sharpness : 0
+Mask Group Based Corr Temperature: 0.16445
+Mask Group Based Corr Texture   : 0
+Mask Group Based Corr Tint      : 0
+Mask Group Based Corr Toning Hue: 0
+Mask Group Based Corr Toning Saturation: 0
+Mask Group Based Corr Whites 2012: 0
+Mask Group Based Corr What      : Correction
+Override Look Vignette          : False
+Parametric Darks                : +1
+Parametric Highlight Split      : 60
+Parametric Highlights           : -24
+Parametric Lights               : -13
+Parametric Midtone Split        : 39
+Parametric Shadow Split         : 16
+Parametric Shadows              : -2
+Perspective Aspect              : 0
+Perspective Horizontal          : 0
+Perspective Rotate              : 0.0
+Perspective Scale               : 100
+Perspective Upright             : Off
+Perspective Vertical            : 0
+Perspective X                   : 0.00
+Perspective Y                   : 0.00
+Post Crop Vignette Amount       : 0
+Process Version                 : 11.0
+Raw File Name                   : {shortstache™}{2022}{Lincoln}40273.CR3
+Red Hue                         : +17
+Red Saturation                  : -7
+Saturation                      : +16
+Saturation Adjustment Aqua      : -76
+Saturation Adjustment Blue      : -87
+Saturation Adjustment Green     : -70
+Saturation Adjustment Magenta   : -76
+Saturation Adjustment Orange    : -48
+Saturation Adjustment Purple    : -78
+Saturation Adjustment Red       : -42
+Saturation Adjustment Yellow    : -60
+Shadow Tint                     : -15
+Shadows 2012                    : +8
+Sharpen Detail                  : 25
+Sharpen Edge Masking            : 0
+Sharpen Radius                  : +1.0
+Sharpness                       : 45
+Split Toning Balance            : 0
+Split Toning Highlight Hue      : 48
+Split Toning Highlight Saturation: 3
+Split Toning Shadow Hue         : 23
+Split Toning Shadow Saturation  : 2
+Color Temperature               : 5992
+Texture                         : 0
+Tint                            : +4
+Tone Curve Name 2012            : Custom
+Tone Curve PV2012               : 0, 28, 50, 43, 101, 100, 168, 184, 255, 231
+Tone Curve PV2012 Blue          : 0, 0, 65, 65, 130, 133, 196, 193, 255, 255
+Tone Curve PV2012 Green         : 0, 0, 42, 42, 130, 129, 255, 255
+Tone Curve PV2012 Red           : 0, 0, 51, 53, 132, 129, 208, 205, 255, 255
+Version                         : 15.1
+Vibrance                        : +24
+Vignette Amount                 : 0
+White Balance                   : Custom
+Whites 2012                     : -42
+X Resolution                    : 460
+Displayed Units X               : inches
+Y Resolution                    : 460
+Displayed Units Y               : inches
+Current IPTC Digest             : 3d4daef892c8a35879d66f4d2209b1a0
+Coded Character Set             : UTF8
+Application Record Version      : 4
+Date Created                    : 2022:12:16
+Time Created                    : 05:14:53-08:00
+Digital Creation Date           : 2022:12:16
+Digital Creation Time           : 05:14:53-08:00
+Photoshop Thumbnail             : (Binary data 11259 bytes, use -b option to extract)
+IPTC Digest                     : 3d4daef892c8a35879d66f4d2209b1a0
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+Image Width                     : 1000
+Image Height                    : 1250
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1000x1250
+Megapixels                      : 1.2
+Date/Time Created               : 2022:12:16 05:14:53-08:00
+Digital Creation Date/Time      : 2022:12:16 05:14:53-08:00
+Date/Time Original              : 2022:12:16 05:14:53-08:00
+Lens ID                         : RF50mm F1.2 L USM

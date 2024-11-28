@@ -1,0 +1,232 @@
+ExifTool Version Number         : 13.03
+File Name                       : river.jpg
+Directory                       : .
+File Size                       : 419 kB
+File Modification Date/Time     : 2024:11:24 15:29:45+02:00
+File Access Date/Time           : 2024:11:24 15:29:48+02:00
+File Inode Change Date/Time     : 2024:11:24 15:29:45+02:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+XMP Toolkit                     : Image::ExifTool 12.16
+Approximate Focus Distance      : 15
+Firmware                        : 1.1.0
+Flash Compensation              : 0
+Image Number                    : 0
+Lens                            : RF24-70mm F2.8 L IS USM
+Lens Info                       : 24-70mm f/?
+Lens Serial Number              : 8103002342
+Serial Number                   : 023021000130
+Format                          : image/jpeg
+Lens Model                      : RF24-70mm F2.8 L IS USM
+Create Date                     : 2021:08:14 20:53:28.61+01:00
+Creator Tool                    : Adobe Photoshop Lightroom Classic 13.2 (Macintosh)
+Metadata Date                   : 2024:03:29 21:26:14+01:00
+Modify Date                     : 2024:03:29 21:26:14+01:00
+Rating                          : 3
+Pick                            : 0
+Derived From Document ID        : B3D62D34B5E06559A3725255809DDD4B
+Derived From Original Document ID: B3D62D34B5E06559A3725255809DDD4B
+Document ID                     : xmp.did:22cb0825-80ce-4d24-9b09-ee0458074ca3
+History Action                  : converted, derived, saved
+History Parameters              : from image/x-canon-cr3 to image/dng, converted from image/dng to image/jpeg, saved to new location
+History Changed                 : /
+History Instance ID             : xmp.iid:22cb0825-80ce-4d24-9b09-ee0458074ca3
+History Software Agent          : Adobe Photoshop Lightroom Classic 13.2 (Macintosh)
+History When                    : 2024:03:29 21:26:14+01:00
+Instance ID                     : xmp.iid:22cb0825-80ce-4d24-9b09-ee0458074ca3
+Original Document ID            : B3D62D34B5E06559A3725255809DDD4B
+Preserved File Name             : 0D0A3274.CR3
+Already Applied                 : True
+Auto Lateral CA                 : 0
+Blacks 2012                     : -10
+Blue Hue                        : -10
+Blue Saturation                 : +25
+Camera Profile                  : Adobe Standard
+Camera Profile Digest           : 23A8FA817AB0E63610A09E90F3703131
+Clarity 2012                    : -15
+Color Grade Blending            : 100
+Color Grade Global Hue          : 0
+Color Grade Global Lum          : 0
+Color Grade Global Sat          : 0
+Color Grade Highlight Lum       : 0
+Color Grade Midtone Hue         : 0
+Color Grade Midtone Lum         : 0
+Color Grade Midtone Sat         : 0
+Color Grade Shadow Lum          : 0
+Color Noise Reduction           : 25
+Color Noise Reduction Detail    : 50
+Color Noise Reduction Smoothness: 50
+Contrast 2012                   : -20
+Convert To Grayscale            : False
+Crop Angle                      : 0
+Crop Bottom                     : 0.999792
+Crop Constrain To Warp          : 0
+Crop Left                       : 0.23777
+Crop Right                      : 0.701828
+Crop Top                        : 0.130109
+Curve Refine Saturation         : 100
+Defringe Green Amount           : 0
+Defringe Green Hue Hi           : 60
+Defringe Green Hue Lo           : 40
+Defringe Purple Amount          : 0
+Defringe Purple Hue Hi          : 70
+Defringe Purple Hue Lo          : 30
+Dehaze                          : -6
+Exposure 2012                   : +0.15
+Grain Amount                    : 20
+Grain Frequency                 : 63
+Grain Seed                      : 204256734
+Grain Size                      : 37
+Green Hue                       : +35
+Green Saturation                : 0
+HDR Edit Mode                   : 0
+Has Crop                        : True
+Has Settings                    : True
+Highlights 2012                 : -29
+Hue Adjustment Aqua             : +10
+Hue Adjustment Blue             : -15
+Hue Adjustment Green            : +15
+Hue Adjustment Magenta          : +20
+Hue Adjustment Orange           : 0
+Hue Adjustment Purple           : +20
+Hue Adjustment Red              : +10
+Hue Adjustment Yellow           : 0
+Lens Manual Distortion Amount   : 0
+Lens Profile Digest             : 328D244DA00890EF67EB40FD7C727BE5
+Lens Profile Distortion Scale   : 100
+Lens Profile Enable             : 0
+Lens Profile Filename           : Canon (Canon RF 24-70mm F2.8 L IS USM) - RAW.lcp
+Lens Profile Is Embedded        : False
+Lens Profile Name               : Adobe (Canon RF 24-70mm F2.8 L IS USM)
+Lens Profile Setup              : LensDefaults
+Lens Profile Vignetting Scale   : 100
+Luminance Adjustment Aqua       : +10
+Luminance Adjustment Blue       : 0
+Luminance Adjustment Green      : -5
+Luminance Adjustment Magenta    : +20
+Luminance Adjustment Orange     : -4
+Luminance Adjustment Purple     : +20
+Luminance Adjustment Red        : +5
+Luminance Adjustment Yellow     : +10
+Luminance Smoothing             : 0
+Override Look Vignette          : False
+Parametric Darks                : +9
+Parametric Highlight Split      : 75
+Parametric Highlights           : -19
+Parametric Lights               : -12
+Parametric Midtone Split        : 60
+Parametric Shadow Split         : 10
+Parametric Shadows              : -100
+Perspective Aspect              : 0
+Perspective Horizontal          : 0
+Perspective Rotate              : 0.0
+Perspective Scale               : 100
+Perspective Upright             : Off
+Perspective Vertical            : 0
+Perspective X                   : 0.00
+Perspective Y                   : 0.00
+Point Colors                    : -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000
+Post Crop Vignette Amount       : 0
+Process Version                 : 15.4
+Raw File Name                   : D71D06ED-5EE9-4F34-9B6B-852D74ADE440.dng
+Red Hue                         : +25
+Red Saturation                  : +20
+Saturation                      : -15
+Saturation Adjustment Aqua      : -50
+Saturation Adjustment Blue      : -40
+Saturation Adjustment Green     : -50
+Saturation Adjustment Magenta   : -40
+Saturation Adjustment Orange    : -8
+Saturation Adjustment Purple    : -50
+Saturation Adjustment Red       : -30
+Saturation Adjustment Yellow    : -15
+Shadow Tint                     : -2
+Shadows 2012                    : -24
+Sharpen Detail                  : 25
+Sharpen Edge Masking            : 0
+Sharpen Radius                  : +1.0
+Sharpness                       : 40
+Split Toning Balance            : 0
+Split Toning Highlight Hue      : 0
+Split Toning Highlight Saturation: 0
+Split Toning Shadow Hue         : 215
+Split Toning Shadow Saturation  : 8
+Color Temperature               : 4779
+Texture                         : 0
+Tint                            : +20
+Tone Curve Name 2012            : Custom
+Tone Curve PV2012               : 0, 0, 77, 75, 186, 187, 255, 250
+Tone Curve PV2012 Blue          : 0, 0, 24, 11, 83, 70, 119, 122, 186, 198, 255, 255
+Tone Curve PV2012 Green         : 0, 0, 27, 10, 120, 125, 182, 197, 255, 251
+Tone Curve PV2012 Red           : 0, 0, 29, 13, 71, 52, 117, 121, 182, 198, 255, 255
+Version                         : 16.2
+Vibrance                        : 0
+Vignette Amount                 : 0
+White Balance                   : Custom
+Whites 2012                     : -45
+X Resolution                    : 300
+Displayed Units X               : inches
+Y Resolution                    : 300
+Displayed Units Y               : inches
+Current IPTC Digest             : ac23e886c67bde3433bfc9cd7244e1f9
+Coded Character Set             : UTF8
+Application Record Version      : 4
+Date Created                    : 2021:08:14
+Time Created                    : 20:53:28+01:00
+Digital Creation Date           : 2021:08:14
+Digital Creation Time           : 20:53:28+01:00
+Photoshop Thumbnail             : (Binary data 7521 bytes, use -b option to extract)
+IPTC Digest                     : ac23e886c67bde3433bfc9cd7244e1f9
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+Image Width                     : 1500
+Image Height                    : 1876
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1500x1876
+Megapixels                      : 2.8
+Date/Time Created               : 2021:08:14 20:53:28+01:00
+Digital Creation Date/Time      : 2021:08:14 20:53:28+01:00
+Date/Time Original              : 2021:08:14 20:53:28+01:00
+Lens ID                         : RF24-70mm F2.8 L IS USM

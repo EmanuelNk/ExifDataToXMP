@@ -1,0 +1,135 @@
+ExifTool Version Number         : 13.03
+File Name                       : chelsea.jpg
+Directory                       : .
+File Size                       : 151 kB
+File Modification Date/Time     : 2024:11:27 19:04:33+02:00
+File Access Date/Time           : 2024:11:27 19:06:01+02:00
+File Inode Change Date/Time     : 2024:11:27 19:06:00+02:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Little-endian (Intel, II)
+Photometric Interpretation      : RGB
+Orientation                     : Horizontal (normal)
+Samples Per Pixel               : 3
+X Resolution                    : 460
+Y Resolution                    : 460
+Resolution Unit                 : inches
+Software                        : Adobe Photoshop 23.5 (Macintosh)
+Modify Date                     : 2024:04:11 16:09:19
+Exif Version                    : 0231
+Date/Time Original              : 2024:01:22 22:11:29
+Create Date                     : 2024:01:22 22:11:29
+Offset Time                     : -04:00
+Offset Time Original            : -08:00
+Offset Time Digitized           : -08:00
+Sub Sec Time Original           : 97
+Sub Sec Time Digitized          : 97
+Color Space                     : sRGB
+Exif Image Width                : 600
+Exif Image Height               : 375
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 546
+Thumbnail Length                : 2609
+Current IPTC Digest             : 3b312315405325e0ddf4e61b92936847
+Coded Character Set             : UTF8
+Application Record Version      : 4
+Time Created                    : 22:11:29-08:00
+Digital Creation Date           : 2024:01:22
+Digital Creation Time           : 22:11:29-08:00
+IPTC Digest                     : 3b312315405325e0ddf4e61b92936847
+Displayed Units X               : inches
+Displayed Units Y               : inches
+Print Style                     : Centered
+Print Position                  : 0 0
+Print Scale                     : 1
+Global Angle                    : 30
+Global Altitude                 : 30
+URL List                        : 
+Slices Group Name               : CitySauce_Chelsea+Pull
+Num Slices                      : 1
+Pixel Aspect Ratio              : 1
+Photoshop Thumbnail             : (Binary data 2609 bytes, use -b option to extract)
+Has Real Merged Data            : Yes
+Writer Name                     : Adobe Photoshop
+Reader Name                     : Adobe Photoshop 2022
+Photoshop Quality               : 11
+Photoshop Format                : Standard
+XMP Toolkit                     : Adobe XMP Core 7.2-c000 79.1b65a79b4, 2022/06/13-22:01:01
+Creator Tool                    : Adobe Photoshop Lightroom Classic 13.2 (Macintosh)
+Metadata Date                   : 2024:04:11 16:09:19-04:00
+Date Created                    : 2024:01:22 22:11:29.097-08:00
+Legacy IPTC Digest              : 3B312315405325E0DDF4E61B92936847
+Color Mode                      : RGB
+ICC Profile Name                : sRGB IEC61966-2.1
+Document ID                     : xmp.did:a944948f-dc58-433a-a921-0d9b93da2faf
+Preserved File Name             : GMK_5326.CR3
+Original Document ID            : 8D198A270531F38222F5A4D948941D0C
+Instance ID                     : xmp.iid:d41f90ed-d61a-42aa-a8ce-7f139b4ee194
+Format                          : image/jpeg
+Pick                            : 0
+Derived From Document ID        : 8D198A270531F38222F5A4D948941D0C
+Derived From Original Document ID: 8D198A270531F38222F5A4D948941D0C
+History Action                  : saved
+History Instance ID             : xmp.iid:d41f90ed-d61a-42aa-a8ce-7f139b4ee194
+History When                    : 2024:04:11 16:09:19-04:00
+History Software Agent          : Adobe Photoshop 23.5 (Macintosh)
+History Changed                 : /
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14]
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 600
+Image Height                    : 375
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 600x375
+Megapixels                      : 0.225
+Create Date                     : 2024:01:22 22:11:29.97-08:00
+Date/Time Original              : 2024:01:22 22:11:29.97-08:00
+Modify Date                     : 2024:04:11 16:09:19-04:00
+Thumbnail Image                 : (Binary data 2609 bytes, use -b option to extract)
+Date/Time Created               : 2024:01:22 22:11:29-08:00
+Digital Creation Date/Time      : 2024:01:22 22:11:29-08:00

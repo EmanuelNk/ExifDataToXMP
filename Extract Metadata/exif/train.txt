@@ -1,0 +1,253 @@
+ExifTool Version Number         : 13.03
+File Name                       : train.jpg
+Directory                       : .
+File Size                       : 376 kB
+File Modification Date/Time     : 2024:11:24 16:28:43+02:00
+File Access Date/Time           : 2024:11:24 16:28:44+02:00
+File Inode Change Date/Time     : 2024:11:24 16:28:43+02:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 300
+Displayed Units X               : inches
+Y Resolution                    : 300
+Displayed Units Y               : inches
+Current IPTC Digest             : 5de3907a0b3b8718fcddb64ca98a48e2
+Coded Character Set             : UTF8
+Application Record Version      : 4
+Time Created                    : 14:43:17+00:00
+Digital Creation Date           : 2020:09:16
+Digital Creation Time           : 14:43:17+00:00
+By-line                         : luke stackpoole
+Photoshop Thumbnail             : (Binary data 14069 bytes, use -b option to extract)
+IPTC Digest                     : 5de3907a0b3b8718fcddb64ca98a48e2
+XMP Toolkit                     : Image::ExifTool 11.16
+Lateral Chromatic Aberration Correction Already Applied: True
+Lens                            : E 28-75mm F2.8-2.8
+Lens Distort Info               : 32818/32768 -17435142/1073741824 14992431/1073741824 778716/1073741824
+Lens Info                       : 28-75mm f/2.8
+Creator                         : luke stackpoole
+Format                          : image/jpeg
+Lens Model                      : E 28-75mm F2.8-2.8
+Date Created                    : 2020:09:16 14:43:17Z
+Create Date                     : 2020:09:16 14:43:17Z
+Creator Tool                    : Adobe Photoshop Lightroom Classic 9.4 (Windows)
+Metadata Date                   : 2020:09:25 17:03:06+01:00
+Modify Date                     : 2020:09:25 17:03:06+01:00
+Derived From Document ID        : 127ED0E4DBECF7A946000B05A4AA2597
+Derived From Original Document ID: 127ED0E4DBECF7A946000B05A4AA2597
+Document ID                     : xmp.did:bdef5065-ba6b-fd4f-9ffc-04183760af06
+History Action                  : derived, saved
+History Parameters              : converted from image/x-sony-arw to image/jpeg, saved to new location
+History Changed                 : /
+History Instance ID             : xmp.iid:bdef5065-ba6b-fd4f-9ffc-04183760af06
+History Software Agent          : Adobe Photoshop Lightroom Classic 9.4 (Windows)
+History When                    : 2020:09:25 17:03:06+01:00
+Instance ID                     : xmp.iid:bdef5065-ba6b-fd4f-9ffc-04183760af06
+Original Document ID            : 127ED0E4DBECF7A946000B05A4AA2597
+Preserved File Name             : DSC02515.ARW
+Already Applied                 : True
+Auto Lateral CA                 : 0
+Blacks 2012                     : +48
+Blue Hue                        : -10
+Blue Saturation                 : -10
+Camera Profile                  : Camera Standard
+Camera Profile Digest           : 92EFC0F09B2920CEB8BAA4E4617A742E
+Clarity 2012                    : -10
+Color Noise Reduction           : 25
+Color Noise Reduction Detail    : 50
+Color Noise Reduction Smoothness: 50
+Contrast 2012                   : +42
+Convert To Grayscale            : False
+Crop Angle                      : 0
+Crop Bottom                     : 0.972673
+Crop Constrain To Warp          : 0
+Crop Left                       : 0.054655
+Crop Right                      : 0.999999
+Crop Top                        : 0.027327
+Defringe Green Amount           : 0
+Defringe Green Hue Hi           : 60
+Defringe Green Hue Lo           : 40
+Defringe Purple Amount          : 0
+Defringe Purple Hue Hi          : 70
+Defringe Purple Hue Lo          : 30
+Dehaze                          : 0
+Exposure 2012                   : +0.24
+Gradient Based Corr Active      : True
+Gradient Based Corr Amount      : 1.000000
+Gradient Based Corr Mask Full X : 0.447768
+Gradient Based Corr Mask Full Y : 0.146948
+Gradient Based Corr Mask Value  : 1.000000
+Gradient Based Corr Mask What   : Mask/Gradient
+Gradient Based Corr Mask Zero X : 0.488643
+Gradient Based Corr Mask Zero Y : 0.628811
+Gradient Based Corr Brightness  : 0.000000
+Gradient Based Corr Clarity 2012: 0.000000
+Gradient Based Corr Contrast 2012: 0.473680
+Gradient Based Corr Defringe    : 0.000000
+Gradient Based Corr Exposure 2012: 0.250000
+Gradient Based Corr Highlights 2012: -0.134500
+Gradient Based Corr Luminance Noise: 0.000000
+Gradient Based Corr Moire       : 0.000000
+Gradient Based Corr Saturation  : 0.000000
+Gradient Based Corr Shadows 2012: 0.333330
+Gradient Based Corr Sharpness   : 0.000000
+Gradient Based Corr Temperature : 0.000000
+Gradient Based Corr Tint        : 0.000000
+Gradient Based Corr Toning Hue  : 0.000000
+Gradient Based Corr Toning Saturation: 0.000000
+Gradient Based Corr What        : Correction
+Grain Amount                    : 0
+Green Hue                       : +30
+Green Saturation                : -30
+Has Crop                        : True
+Has Settings                    : True
+Highlights 2012                 : -100
+Hue Adjustment Aqua             : -36
+Hue Adjustment Blue             : -10
+Hue Adjustment Green            : -100
+Hue Adjustment Magenta          : 0
+Hue Adjustment Orange           : -13
+Hue Adjustment Purple           : 0
+Hue Adjustment Red              : +20
+Hue Adjustment Yellow           : -8
+Lens Manual Distortion Amount   : 0
+Lens Profile Enable             : 0
+Lens Profile Setup              : LensDefaults
+Luminance Adjustment Aqua       : +37
+Luminance Adjustment Blue       : +20
+Luminance Adjustment Green      : +27
+Luminance Adjustment Magenta    : -43
+Luminance Adjustment Orange     : +16
+Luminance Adjustment Purple     : -32
+Luminance Adjustment Red        : -17
+Luminance Adjustment Yellow     : +15
+Luminance Noise Reduction Contrast: 0
+Luminance Noise Reduction Detail: 50
+Luminance Smoothing             : 5
+Parametric Darks                : 0
+Parametric Highlight Split      : 75
+Parametric Highlights           : 0
+Parametric Lights               : 0
+Parametric Midtone Split        : 60
+Parametric Shadow Split         : 14
+Parametric Shadows              : 0
+Perspective Aspect              : 0
+Perspective Horizontal          : 0
+Perspective Rotate              : 0.0
+Perspective Scale               : 100
+Perspective Upright             : Off
+Perspective Vertical            : 0
+Perspective X                   : 0.00
+Perspective Y                   : 0.00
+Post Crop Vignette Amount       : -11
+Post Crop Vignette Feather      : 50
+Post Crop Vignette Highlight Contrast: 0
+Post Crop Vignette Midpoint     : 50
+Post Crop Vignette Roundness    : 0
+Post Crop Vignette Style        : Highlight Priority
+Process Version                 : 11.0
+Raw File Name                   : DSC02515.ARW
+Red Hue                         : +15
+Red Saturation                  : +15
+Saturation                      : -5
+Saturation Adjustment Aqua      : -60
+Saturation Adjustment Blue      : -65
+Saturation Adjustment Green     : -30
+Saturation Adjustment Magenta   : -59
+Saturation Adjustment Orange    : -19
+Saturation Adjustment Purple    : -100
+Saturation Adjustment Red       : -6
+Saturation Adjustment Yellow    : -60
+Shadow Tint                     : 0
+Shadows 2012                    : +100
+Sharpen Detail                  : 25
+Sharpen Edge Masking            : 57
+Sharpen Radius                  : +1.0
+Sharpness                       : 61
+Split Toning Balance            : +45
+Split Toning Highlight Hue      : 233
+Split Toning Highlight Saturation: 10
+Split Toning Shadow Hue         : 218
+Split Toning Shadow Saturation  : 10
+Color Temperature               : 5571
+Tint                            : +25
+Tone Curve                      : 0, 0, 255, 255
+Tone Curve Blue                 : 0, 0, 255, 255
+Tone Curve Green                : 0, 0, 255, 255
+Tone Curve Name                 : Linear
+Tone Curve Name 2012            : Custom
+Tone Curve PV2012               : 0, 26, 57, 67, 210, 195, 255, 241
+Tone Curve PV2012 Blue          : 0, 0, 42, 23, 116, 122, 178, 203, 255, 255
+Tone Curve PV2012 Green         : 0, 0, 43, 22, 113, 123, 178, 203, 255, 255
+Tone Curve PV2012 Red           : 0, 0, 43, 20, 113, 123, 178, 203, 255, 255
+Tone Curve Red                  : 0, 0, 255, 255
+Tone Map Strength               : 0
+Upright Center Mode             : 0
+Upright Center Norm X           : 0.5
+Upright Center Norm Y           : 0.5
+Upright Focal Length 35mm       : 35
+Upright Focal Mode              : 0
+Upright Four Segments Count     : 0
+Upright Preview                 : False
+Upright Transform Count         : 6
+Upright Version                 : 151388160
+Version                         : 12.4
+Vibrance                        : +15
+Vignette Amount                 : 0
+White Balance                   : Custom
+Whites 2012                     : -19
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+Image Width                     : 1500
+Image Height                    : 1000
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 1500x1000
+Megapixels                      : 1.5
+Date/Time Created               : 2020:09:16 14:43:17+00:00
+Digital Creation Date/Time      : 2020:09:16 14:43:17+00:00
+Date/Time Original              : 2020:09:16 14:43:17+00:00
+Lens ID                         : E 28-75mm F2.8-2.8

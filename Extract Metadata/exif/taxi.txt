@@ -1,0 +1,24 @@
+ExifTool Version Number         : 13.03
+File Name                       : taxi.jpg
+Directory                       : .
+File Size                       : 166 kB
+File Modification Date/Time     : 2024:11:27 19:09:15+02:00
+File Access Date/Time           : 2024:11:27 19:09:18+02:00
+File Inode Change Date/Time     : 2024:11:27 19:09:17+02:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 96
+Y Resolution                    : 96
+Comment                         : CREATOR: gd-jpeg v1.0 (using IJG JPEG v80), quality = 90.
+Image Width                     : 1360
+Image Height                    : 907
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 1360x907
+Megapixels                      : 1.2

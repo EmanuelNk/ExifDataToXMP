@@ -1,0 +1,295 @@
+ExifTool Version Number         : 13.03
+File Name                       : canyon.jpg
+Directory                       : .
+File Size                       : 599 kB
+File Modification Date/Time     : 2024:11:24 16:31:46+02:00
+File Access Date/Time           : 2024:11:24 16:31:48+02:00
+File Inode Change Date/Time     : 2024:11:24 16:31:47+02:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+XMP Toolkit                     : Image::ExifTool 12.16
+Lateral Chromatic Aberration Correction Already Applied: True
+Lens                            : E 28-75mm F2.8 A063
+Lens Distort Info               : 1056724242/1073741824 948409/1073741824 11207414/1073741824 4840157/1073741824
+Lens Info                       : 28-75mm f/2.8
+Format                          : image/jpeg
+Lens Model                      : E 28-75mm F2.8 A063
+Create Date                     : 2022:10:24 13:36:22.442Z
+Creator Tool                    : Adobe Photoshop Lightroom Classic 12.0.1 (Macintosh)
+Label                           : Blue
+Metadata Date                   : 2022:11:02 15:51:38+08:00
+Modify Date                     : 2022:11:02 15:51:38+08:00
+Rating                          : 5
+Derived From Document ID        : 11152C705684CE69A6A92A1917B68463
+Derived From Original Document ID: 11152C705684CE69A6A92A1917B68463
+Document ID                     : xmp.did:538c5717-c583-474b-9c5d-addcfe9cb7b5
+History Action                  : derived, saved
+History Parameters              : converted from image/x-sony-arw to image/jpeg, saved to new location
+History Changed                 : /
+History Instance ID             : xmp.iid:538c5717-c583-474b-9c5d-addcfe9cb7b5
+History Software Agent          : Adobe Photoshop Lightroom Classic 12.0.1 (Macintosh)
+History When                    : 2022:11:02 15:51:38+08:00
+Instance ID                     : xmp.iid:538c5717-c583-474b-9c5d-addcfe9cb7b5
+Original Document ID            : 11152C705684CE69A6A92A1917B68463
+Preserved File Name             : LUS03822.ARW
+Already Applied                 : True
+Auto Lateral CA                 : 0
+Blacks 2012                     : +60
+Blue Hue                        : -10
+Blue Saturation                 : -10
+Camera Profile                  : Adobe Standard
+Camera Profile Digest           : 3E81AC9EC67AD02110A553AFE7154535
+Clarity 2012                    : -10
+Color Grade Blending            : 100
+Color Grade Global Hue          : 0
+Color Grade Global Lum          : 0
+Color Grade Global Sat          : 0
+Color Grade Highlight Lum       : +18
+Color Grade Midtone Hue         : 0
+Color Grade Midtone Lum         : 0
+Color Grade Midtone Sat         : 0
+Color Grade Shadow Lum          : 0
+Color Noise Reduction           : 25
+Color Noise Reduction Detail    : 50
+Color Noise Reduction Smoothness: 50
+Compatible Version              : 234881024
+Contrast 2012                   : +26
+Crop Angle                      : 0.703854
+Crop Bottom                     : 1
+Crop Constrain To Warp          : 0
+Crop Left                       : 0.014363
+Crop Right                      : 0.92211
+Crop Top                        : 0.067891
+Defringe Green Amount           : 0
+Defringe Green Hue Hi           : 60
+Defringe Green Hue Lo           : 40
+Defringe Purple Amount          : 0
+Defringe Purple Hue Hi          : 70
+Defringe Purple Hue Lo          : 30
+Dehaze                          : 0
+Exposure 2012                   : +0.60
+Grain Amount                    : 0
+Green Hue                       : +30
+Green Saturation                : -30
+Has Crop                        : True
+Has Settings                    : True
+Highlights 2012                 : -89
+Hue Adjustment Aqua             : -36
+Hue Adjustment Blue             : -10
+Hue Adjustment Green            : -100
+Hue Adjustment Magenta          : 0
+Hue Adjustment Orange           : 0
+Hue Adjustment Purple           : 0
+Hue Adjustment Red              : +20
+Hue Adjustment Yellow           : -27
+Lens Manual Distortion Amount   : 0
+Lens Profile Enable             : 0
+Look Amount                     : 1
+Look Group                      : Profiles
+Look Name                       : Adobe Color
+Look Parameters Camera Profile  : Adobe Standard
+Look Parameters Convert To Grayscale: False
+Look Parameters Look Table      : E1095149FDB39D7A057BAB208837E2E1
+Look Parameters Process Version : 11.0
+Look Parameters Tone Curve PV2012: 0, 0, 22, 16, 40, 35, 127, 127, 224, 230, 240, 246, 255, 255
+Look Parameters Version         : 15.0
+Look Supports Amount            : false
+Look Supports Monochrome        : false
+Look Supports Output Referred   : false
+Look UUID                       : B952C231111CD8E0ECCF14B86BAA7077
+Luminance Adjustment Aqua       : +37
+Luminance Adjustment Blue       : -9
+Luminance Adjustment Green      : +50
+Luminance Adjustment Magenta    : -43
+Luminance Adjustment Orange     : -1
+Luminance Adjustment Purple     : -32
+Luminance Adjustment Red        : -17
+Luminance Adjustment Yellow     : +15
+Luminance Smoothing             : 0
+Mask Group Based Corr Correction Name: Mask 1, Mask 2, Mask 3
+Mask Group Based Corr Correction Sync ID: C4B12342D172476385E3DE5BDC304AC1, 387EEEBF52994AEBA2E0EAAE290409A6, 9E926438624E402FA1B85B795BEB21D2
+Mask Group Based Corr Mask Masks Center Weight: 0
+Mask Group Based Corr Mask Masks Dabs: M 0.582005 0.556028, M 0.510353 0.599692
+Mask Group Based Corr Mask Masks Flow: 1
+Mask Group Based Corr Mask Masks Mask Active: true
+Mask Group Based Corr Mask Masks Mask Blend Mode: 0
+Mask Group Based Corr Mask Masks Mask Inverted: false
+Mask Group Based Corr Mask Masks Mask Sync ID: 9DE148C0626B4431904188681274E761
+Mask Group Based Corr Mask Masks Value: 1
+Mask Group Based Corr Mask Masks Radius: 0.26282
+Mask Group Based Corr Mask Masks What: Mask/Paint
+Mask Group Based Corr Active    : true
+Mask Group Based Corr Amount    : 1
+Mask Group Based Corr Mask Full X: 0.873187
+Mask Group Based Corr Mask Full Y: 0.957127
+Mask Group Based Corr Mask Mask Active: true
+Mask Group Based Corr Mask Mask Blend Mode: 0
+Mask Group Based Corr Mask Mask Inverted: false
+Mask Group Based Corr Mask Mask Name: Linear Gradient 1
+Mask Group Based Corr Mask Mask Sync ID: 707791E477A442B2B911C01D64589C5F
+Mask Group Based Corr Mask Value: 1
+Mask Group Based Corr Mask What : Mask/Gradient
+Mask Group Based Corr Mask Zero X: 0.467079
+Mask Group Based Corr Mask Zero Y: 0.759772
+Mask Group Based Corr Blacks 2012: 0
+Mask Group Based Corr Brightness: 0
+Mask Group Based Corr Clarity   : 0
+Mask Group Based Corr Clarity 2012: 0
+Mask Group Based Corr Contrast  : 0
+Mask Group Based Corr Contrast 2012: 0
+Mask Group Based Corr Defringe  : 0
+Mask Group Based Corr Dehaze    : 0
+Mask Group Based Corr Exposure  : 0
+Mask Group Based Corr Exposure 2012: -0.218487
+Mask Group Based Corr Highlights 2012: 0
+Mask Group Based Corr Hue       : 0
+Mask Group Based Corr Luminance Noise: 0
+Mask Group Based Corr Moire     : 0
+Mask Group Based Corr Saturation: 0
+Mask Group Based Corr Shadows 2012: 0
+Mask Group Based Corr Sharpness : 0
+Mask Group Based Corr Temperature: 0.747899
+Mask Group Based Corr Texture   : 0
+Mask Group Based Corr Tint      : 0.764706
+Mask Group Based Corr Toning Hue: 0
+Mask Group Based Corr Toning Saturation: 0
+Mask Group Based Corr Whites 2012: 0
+Mask Group Based Corr What      : Correction
+Override Look Vignette          : False
+Parametric Darks                : 0
+Parametric Highlight Split      : 75
+Parametric Highlights           : 0
+Parametric Lights               : 0
+Parametric Midtone Split        : 60
+Parametric Shadow Split         : 14
+Parametric Shadows              : 0
+Perspective Aspect              : 0
+Perspective Horizontal          : 0
+Perspective Rotate              : 0.0
+Perspective Scale               : 100
+Perspective Upright             : Off
+Perspective Vertical            : 0
+Perspective X                   : 0.00
+Perspective Y                   : 0.00
+Post Crop Vignette Amount       : 0
+Process Version                 : 11.0
+Raw File Name                   : LUS03822.ARW
+Red Hue                         : +15
+Red Saturation                  : +15
+Retouch Area Feather            : 0.289256
+Retouch Area Mask Alpha         : 0
+Retouch Area Mask Center Value  : 1
+Retouch Area Mask Value         : 1
+Retouch Area Mask Perimeter Value: 0
+Retouch Area Mask Size X        : 0.010422
+Retouch Area Mask Size Y        : 0.010422
+Retouch Area Mask What          : Mask/Ellipse
+Retouch Area Mask X             : 0.131511
+Retouch Area Mask Y             : 0.89749
+Retouch Area Method             : gaussian
+Retouch Area Offset Y           : 0.721796
+Retouch Area Opacity            : 1
+Retouch Area Seed               : 2
+Retouch Area Source State       : sourceAutoComputed
+Retouch Area Source X           : 0.100377
+Retouch Area Spot Type          : heal
+Retouch Info                    : centerX = 0.014877, centerY = 0.333682, radius = 0.014257, sourceState = sourceAutoComputed, sourceX = 0.086405, sourceY = 0.333682, spotType = heal, centerX = 0.247480, centerY = 0.078183, radius = 0.015752, sourceState = sourceAutoComputed, sourceX = 0.299795, sourceY = 0.116377, spotType = heal, centerX = 0.131511, centerY = 0.897490, radius = 0.010422, sourceState = sourceAutoComputed, sourceX = 0.100377, sourceY = 0.721796, spotType = heal
+Saturation                      : +23
+Saturation Adjustment Aqua      : -100
+Saturation Adjustment Blue      : -54
+Saturation Adjustment Green     : -64
+Saturation Adjustment Magenta   : -59
+Saturation Adjustment Orange    : -12
+Saturation Adjustment Purple    : -100
+Saturation Adjustment Red       : -6
+Saturation Adjustment Yellow    : -56
+Shadow Tint                     : 0
+Shadows 2012                    : -14
+Sharpen Detail                  : 25
+Sharpen Edge Masking            : 51
+Sharpen Radius                  : +1.0
+Sharpness                       : 45
+Split Toning Balance            : +45
+Split Toning Highlight Hue      : 215
+Split Toning Highlight Saturation: 21
+Split Toning Shadow Hue         : 212
+Split Toning Shadow Saturation  : 8
+Color Temperature               : 7315
+Texture                         : 0
+Tint                            : -2
+Tone Curve Name 2012            : Custom
+Tone Curve PV2012               : 0, 26, 57, 67, 210, 195, 255, 241
+Tone Curve PV2012 Blue          : 0, 0, 42, 23, 116, 122, 178, 203, 255, 255
+Tone Curve PV2012 Green         : 0, 0, 43, 22, 113, 123, 178, 203, 255, 255
+Tone Curve PV2012 Red           : 0, 0, 43, 20, 113, 123, 178, 203, 255, 255
+Version                         : 15.0
+Vibrance                        : +23
+Vignette Amount                 : 0
+White Balance                   : Custom
+Whites 2012                     : -86
+X Resolution                    : 300
+Displayed Units X               : inches
+Y Resolution                    : 300
+Displayed Units Y               : inches
+Current IPTC Digest             : 1884b1aedcfd0308e2dbd46a59d57506
+Coded Character Set             : UTF8
+Application Record Version      : 4
+Date Created                    : 2022:10:24
+Time Created                    : 13:36:22+00:00
+Digital Creation Date           : 2022:10:24
+Digital Creation Time           : 13:36:22+00:00
+Photoshop Thumbnail             : (Binary data 12827 bytes, use -b option to extract)
+IPTC Digest                     : 1884b1aedcfd0308e2dbd46a59d57506
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+Image Width                     : 1500
+Image Height                    : 2250
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1500x2250
+Megapixels                      : 3.4
+Date/Time Created               : 2022:10:24 13:36:22+00:00
+Digital Creation Date/Time      : 2022:10:24 13:36:22+00:00
+Date/Time Original              : 2022:10:24 13:36:22+00:00
+Lens ID                         : E 28-75mm F2.8 A063

@@ -1,0 +1,355 @@
+ExifTool Version Number         : 13.03
+File Name                       : brown.jpg
+Directory                       : .
+File Size                       : 884 kB
+File Modification Date/Time     : 2024:11:24 16:16:46+02:00
+File Access Date/Time           : 2024:11:24 16:16:47+02:00
+File Inode Change Date/Time     : 2024:11:24 16:16:46+02:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Little-endian (Intel, II)
+Make                            : SONY
+Camera Model Name               : ILCE-7SM3
+X Resolution                    : 240
+Y Resolution                    : 240
+Resolution Unit                 : inches
+Software                        : Adobe Photoshop Lightroom Classic 10.1.1 (Macintosh)
+Modify Date                     : 2021:01:25 17:13:45
+Exposure Time                   : 1/1000
+F Number                        : 2.8
+Exposure Program                : Manual
+ISO                             : 400
+Sensitivity Type                : Recommended Exposure Index
+Recommended Exposure Index      : 400
+Exif Version                    : 0232
+Date/Time Original              : 2020:12:09 16:27:53
+Create Date                     : 2020:12:09 16:27:53
+Offset Time                     : -05:00
+Offset Time Original            : -05:00
+Offset Time Digitized           : -05:00
+Shutter Speed Value             : 1/1000
+Aperture Value                  : 2.8
+Brightness Value                : 7.509375
+Exposure Compensation           : 0
+Max Aperture Value              : 2.8
+Metering Mode                   : Multi-segment
+Light Source                    : Cloudy
+Flash                           : Off, Did not fire
+Focal Length                    : 32.0 mm
+Sub Sec Time Original           : 609
+Sub Sec Time Digitized          : 609
+Color Space                     : sRGB
+Focal Plane X Resolution        : 1180.731659
+Focal Plane Y Resolution        : 1180.731659
+Focal Plane Resolution Unit     : cm
+File Source                     : Digital Camera
+Scene Type                      : Directly photographed
+Custom Rendered                 : Normal
+Exposure Mode                   : Manual
+White Balance                   : Manual
+Digital Zoom Ratio              : 1
+Focal Length In 35mm Format     : 32 mm
+Scene Capture Type              : Standard
+Contrast                        : Normal
+Saturation                      : Normal
+Sharpness                       : Normal
+Lens Info                       : 24-70mm f/2.8
+Lens Model                      : FE 24-70mm F2.8 GM
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 1012
+Thumbnail Length                : 12386
+Displayed Units X               : inches
+Displayed Units Y               : inches
+Current IPTC Digest             : 47093ba00fd5c2f0532a103020a3b4a0
+Coded Character Set             : UTF8
+Application Record Version      : 4
+Time Created                    : 16:27:53-05:00
+Digital Creation Date           : 2020:12:09
+Digital Creation Time           : 16:27:53-05:00
+Photoshop Thumbnail             : (Binary data 12386 bytes, use -b option to extract)
+IPTC Digest                     : 47093ba00fd5c2f0532a103020a3b4a0
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+XMP Toolkit                     : Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21
+Creator Tool                    : Adobe Photoshop Lightroom Classic 10.1.1 (Macintosh)
+Metadata Date                   : 2021:01:25 17:13:45-05:00
+Rating                          : 5
+Lens                            : FE 24-70mm F2.8 GM
+Lens Distort Info               : 1065837032/1073741824 -23715679/1073741824 25983230/1073741824 5632785/1073741824
+Lateral Chromatic Aberration Correction Already Applied: True
+Date Created                    : 2020:12:09 16:27:53.609-05:00
+Document ID                     : xmp.did:cfe67837-3ab5-4fb4-a231-924e8678ef50
+Preserved File Name             : DSC02597.ARW
+Original Document ID            : 32B8E1801F79D22F7B87FE8E2DB5C965
+Instance ID                     : xmp.iid:cfe67837-3ab5-4fb4-a231-924e8678ef50
+Format                          : image/jpeg
+Raw File Name                   : DSC02597.ARW
+Version                         : 13.1
+Process Version                 : 11.0
+Color Temperature               : 6220
+Tint                            : +15
+Exposure 2012                   : 0.00
+Contrast 2012                   : 0
+Highlights 2012                 : -14
+Shadows 2012                    : +58
+Whites 2012                     : +10
+Blacks 2012                     : -6
+Texture                         : 0
+Clarity 2012                    : -21
+Dehaze                          : 0
+Vibrance                        : +5
+Parametric Shadows              : -45
+Parametric Darks                : +3
+Parametric Lights               : -6
+Parametric Highlights           : 0
+Parametric Shadow Split         : 10
+Parametric Midtone Split        : 60
+Parametric Highlight Split      : 86
+Sharpen Radius                  : +1.0
+Sharpen Detail                  : 23
+Sharpen Edge Masking            : 12
+Luminance Smoothing             : 13
+Luminance Noise Reduction Detail: 50
+Luminance Noise Reduction Contrast: 0
+Color Noise Reduction           : 25
+Color Noise Reduction Detail    : 50
+Color Noise Reduction Smoothness: 50
+Hue Adjustment Red              : +40
+Hue Adjustment Orange           : +5
+Hue Adjustment Yellow           : +5
+Hue Adjustment Green            : -4
+Hue Adjustment Aqua             : +15
+Hue Adjustment Blue             : -25
+Hue Adjustment Purple           : 0
+Hue Adjustment Magenta          : 0
+Saturation Adjustment Red       : -19
+Saturation Adjustment Orange    : +26
+Saturation Adjustment Yellow    : +40
+Saturation Adjustment Green     : -33
+Saturation Adjustment Aqua      : +10
+Saturation Adjustment Blue      : -20
+Saturation Adjustment Purple    : 0
+Saturation Adjustment Magenta   : 0
+Luminance Adjustment Red        : -35
+Luminance Adjustment Orange     : -5
+Luminance Adjustment Yellow     : 0
+Luminance Adjustment Green      : +50
+Luminance Adjustment Aqua       : 0
+Luminance Adjustment Blue       : +5
+Luminance Adjustment Purple     : 0
+Luminance Adjustment Magenta    : 0
+Split Toning Shadow Hue         : 235
+Split Toning Shadow Saturation  : 9
+Split Toning Highlight Hue      : 61
+Split Toning Highlight Saturation: 6
+Split Toning Balance            : 0
+Color Grade Midtone Hue         : 0
+Color Grade Midtone Sat         : 0
+Color Grade Shadow Lum          : 0
+Color Grade Midtone Lum         : 0
+Color Grade Highlight Lum       : 0
+Color Grade Blending            : 100
+Color Grade Global Hue          : 0
+Color Grade Global Sat          : 0
+Color Grade Global Lum          : 0
+Auto Lateral CA                 : 0
+Lens Profile Enable             : 0
+Lens Manual Distortion Amount   : 0
+Vignette Amount                 : 0
+Defringe Purple Amount          : 0
+Defringe Purple Hue Lo          : 30
+Defringe Purple Hue Hi          : 70
+Defringe Green Amount           : 0
+Defringe Green Hue Lo           : 40
+Defringe Green Hue Hi           : 60
+Perspective Upright             : Off
+Perspective Vertical            : 0
+Perspective Horizontal          : 0
+Perspective Rotate              : 0.0
+Perspective Aspect              : 0
+Perspective Scale               : 100
+Perspective X                   : 0.00
+Perspective Y                   : 0.00
+Grain Amount                    : 0
+Post Crop Vignette Amount       : -3
+Post Crop Vignette Midpoint     : 50
+Post Crop Vignette Feather      : 50
+Post Crop Vignette Roundness    : 0
+Post Crop Vignette Style        : Highlight Priority
+Post Crop Vignette Highlight Contrast: 0
+Shadow Tint                     : 0
+Red Hue                         : -25
+Red Saturation                  : -25
+Green Hue                       : +40
+Green Saturation                : +25
+Blue Hue                        : -10
+Blue Saturation                 : -33
+Override Look Vignette          : False
+Tone Curve Name 2012            : Custom
+Camera Profile                  : Adobe Standard
+Camera Profile Digest           : 89C5CACF077426C33DC402C1A26593CA
+Has Settings                    : True
+Crop Top                        : 0
+Crop Left                       : 0
+Crop Bottom                     : 1
+Crop Right                      : 1
+Crop Angle                      : 0
+Crop Constrain To Warp          : 0
+Has Crop                        : False
+Already Applied                 : True
+History Action                  : derived, saved, edited, derived, saved, derived, saved
+History Parameters              : converted from image/x-sony-arw to image/dng, saved to new location, saved to new location, converted from image/dng to image/jpeg, saved to new location
+History Instance ID             : xmp.iid:16048cb7-1260-41f4-b364-37d7b1b639f9, xmp.iid:8a9e3ab3-25d1-4775-924f-4729e1de25ae, xmp.iid:cfe67837-3ab5-4fb4-a231-924e8678ef50
+History When                    : 2020:12:14 14:37:34-05:00, 2020:12:14 21:39:19Z, 2021:01:25 16:10:10-05:00, 2021:01:25 17:13:45-05:00
+History Software Agent          : Adobe Photoshop Lightroom Classic 10.0 (Macintosh), Adobe Lightroom 4.1 (Macintosh), Adobe Photoshop Lightroom Classic 10.1.1 (Macintosh)
+History Changed                 : /, /, /
+Derived From Instance ID        : xmp.iid:8a9e3ab3-25d1-4775-924f-4729e1de25ae
+Derived From Document ID        : xmp.did:8a9e3ab3-25d1-4775-924f-4729e1de25ae
+Derived From Original Document ID: 32B8E1801F79D22F7B87FE8E2DB5C965
+Tone Curve PV2012               : 0, 5, 59, 49, 184, 198, 255, 255
+Tone Curve PV2012 Red           : 0, 0, 41, 25, 112, 122, 176, 196, 255, 244
+Tone Curve PV2012 Green         : 0, 0, 41, 25, 136, 159, 255, 246
+Tone Curve PV2012 Blue          : 0, 0, 41, 25, 122, 139, 255, 246
+Retouch Area Heal Version       : +2
+Retouch Area Mask Radius        : 0.001460
+Retouch Area Mask Flow          : 1.000000
+Retouch Area Mask Center Weight : 0.500000
+Retouch Area Mask Dabs          : d 0.326233 0.878188
+Retouch Area Spot Type          : heal
+Retouch Area Source State       : sourceSetExplicitly
+Retouch Area Method             : gaussian
+Retouch Area Source X           : 0.333935
+Retouch Area Offset Y           : 0.696340
+Retouch Area Opacity            : 1.000000
+Retouch Area Feather            : 0.463447
+Retouch Area Seed               : +2
+Retouch Area Mask What          : Mask/Ellipse
+Retouch Area Mask Value         : 1.000000
+Retouch Area Mask X             : 0.316703
+Retouch Area Mask Y             : 0.712126
+Retouch Area Mask Size X        : 0.001460
+Retouch Area Mask Size Y        : 0.001460
+Retouch Area Mask Alpha         : 0.000000
+Retouch Area Mask Center Value  : 1.000000
+Retouch Area Mask Perimeter Value: 0.000000
+Retouch Info                    : centerX = 0.143842, centerY = 0.625183, radius = 0.001696, sourceState = sourceAutoComputed, sourceX = 0.162946, sourceY = 0.609646, spotType = heal, centerX = 0.161233, centerY = 0.679688, radius = 0.001696, sourceState = sourceAutoComputed, sourceX = 0.176327, sourceY = 0.679688, spotType = heal, centerX = 0.177725, centerY = 0.716287, radius = 0.001696, sourceState = sourceAutoComputed, sourceX = 0.202489, sourceY = 0.746654, spotType = heal, centerX = 0.181246, centerY = 0.722929, radius = 0.001696, sourceState = sourceAutoComputed, sourceX = 0.181246, sourceY = 0.729991, spotType = heal, centerX = 0.163124, centerY = 0.827535, radius = 0.001696, sourceState = sourceSetExplicitly, sourceX = 0.172550, sourceY = 0.784241, spotType = heal, centerX = 0.158577, centerY = 0.445469, radius = 0.001696, sourceState = sourceAutoComputed, sourceX = 0.165417, sourceY = 0.453944, spotType = heal, centerX = 0.187426, centerY = 0.306645, radius = 0.001696, sourceState = sourceAutoComputed, sourceX = 0.188841, sourceY = 0.300289, spotType = heal, centerX = 0.214816, centerY = 0.245233, radius = 0.000988, sourceState = sourceAutoComputed, sourceX = 0.212222, sourceY = 0.278425, spotType = heal, centerX = 0.232051, centerY = 0.237835, radius = 0.000988, sourceState = sourceAutoComputed, sourceX = 0.245494, sourceY = 0.237835, spotType = heal, centerX = 0.316703, centerY = 0.712126, radius = 0.001460, sourceState = sourceSetExplicitly, sourceX = 0.333935, sourceY = 0.696340, spotType = heal
+Paint Correction Range Mask Version: +2, +2
+Paint Correction Range Mask Type: 0, 0
+Paint Correction Range Mask Color Amount: 0.500000, 0.500000
+Paint Correction Range Mask Lum Min: 0.000000, 0.000000
+Paint Correction Range Mask Lum Max: 1.000000, 1.000000
+Paint Correction Range Mask Lum Feather: 0.500000, 0.500000
+Paint Correction Range Mask Depth Min: 0.000000, 0.000000
+Paint Correction Range Mask Depth Max: 1.000000, 1.000000
+Paint Correction Range Mask Depth Feather: 0.500000, 0.500000
+Paint Correction What           : Correction
+Paint Correction Amount         : 1.000000
+Paint Correction Active         : true
+Paint Correction Hue            : 0.000000
+Paint Correction Saturation     : 0.000000
+Paint Correction Sharpness      : 0.000000
+Paint Correction Brightness     : 0.000000
+Paint Correction Toning Hue     : 227.000000
+Paint Correction Toning Saturation: 0.000000
+Paint Correction Exposure 2012  : 0.120000
+Paint Correction Contrast 2012  : 0.000000
+Paint Correction Highlights 2012: 0.000000
+Paint Correction Shadows 2012   : 0.000000
+Paint Correction Whites 2012    : 0.000000
+Paint Correction Blacks 2012    : 0.000000
+Paint Correction Clarity 2012   : 0.196259
+Paint Correction Dehaze         : 0.000000
+Paint Correction Luminance Noise: 0.000000
+Paint Correction Moire          : 0.000000
+Paint Correction Defringe       : 0.000000
+Paint Correction Temperature    : 0.000000
+Paint Correction Tint           : 0.000000
+Paint Correction Texture        : 0.000000
+Paint Correction Mask What      : Mask/Paint
+Paint Correction Mask Value     : 1.000000
+Paint Correction Mask Radius    : 0.044759
+Paint Correction Mask Flow      : 1.000000
+Paint Correction Mask Center Weight: 0.000000
+Paint Correction Mask Dabs      : d 0.235660 0.666482
+Look Name                       : Adobe Color
+Look Amount                     : 1.000000
+Look UUID                       : B952C231111CD8E0ECCF14B86BAA7077
+Look Supports Amount            : false
+Look Supports Monochrome        : false
+Look Supports Output Referred   : false
+Look Group                      : Profiles
+Look Parameters Version         : 13.1
+Look Parameters Process Version : 11.0
+Look Parameters Convert To Grayscale: False
+Look Parameters Camera Profile  : Adobe Standard
+Look Parameters Look Table      : E1095149FDB39D7A057BAB208837E2E1
+Look Parameters Tone Curve PV2012: 0, 0, 22, 16, 40, 35, 127, 127, 224, 230, 240, 246, 255, 255
+Look Parameters Tone Curve PV2012 Red: 0, 0, 255, 255
+Look Parameters Tone Curve PV2012 Green: 0, 0, 255, 255
+Look Parameters Tone Curve PV2012 Blue: 0, 0, 255, 255
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14], Encoded with Blend=1 downsampling
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 2832
+Image Height                    : 4240
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Aperture                        : 2.8
+Image Size                      : 2832x4240
+Megapixels                      : 12.0
+Scale Factor To 35 mm Equivalent: 1.0
+Shutter Speed                   : 1/1000
+Create Date                     : 2020:12:09 16:27:53.609-05:00
+Date/Time Original              : 2020:12:09 16:27:53.609-05:00
+Modify Date                     : 2021:01:25 17:13:45-05:00
+Thumbnail Image                 : (Binary data 12386 bytes, use -b option to extract)
+Date/Time Created               : 2020:12:09 16:27:53-05:00
+Digital Creation Date/Time      : 2020:12:09 16:27:53-05:00
+Circle Of Confusion             : 0.030 mm
+Field Of View                   : 58.7 deg
+Focal Length                    : 32.0 mm (35 mm equivalent: 32.0 mm)
+Hyperfocal Distance             : 12.17 m
+Light Value                     : 10.9
+Lens ID                         : FE 24-70mm F2.8 GM

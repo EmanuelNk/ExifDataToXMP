@@ -1,0 +1,57 @@
+ExifTool Version Number         : 13.03
+File Name                       : greyblue.jpg
+Directory                       : .
+File Size                       : 64 kB
+File Modification Date/Time     : 2024:11:27 19:30:30+02:00
+File Access Date/Time           : 2024:11:27 19:30:32+02:00
+File Inode Change Date/Time     : 2024:11:27 19:30:31+02:00
+File Permissions                : -rw-r--r--
+File Type                       : Extended WEBP
+File Type Extension             : webp
+MIME Type                       : image/webp
+WebP Flags                      : EXIF, ICC Profile
+Image Width                     : 500
+Image Height                    : 626
+Profile CMM Type                : Little CMS
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2012:01:25 03:41:57
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : c2ci
+Profile Copyright               : CC0
+Media White Point               : 0.9642 1 0.82491
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
+VP8 Version                     : 0 (bicubic reconstruction, normal loop)
+Horizontal Scale                : 0
+Vertical Scale                  : 0
+Warning                         : [minor] Improper EXIF header
+Exif Byte Order                 : Little-endian (Intel, II)
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Y Cb Cr Positioning             : Centered
+Exif Version                    : 0210
+Components Configuration        : Y, Cb, Cr, -
+Flashpix Version                : 0100
+Color Space                     : Uncalibrated
+Exif Image Width                : 500
+Exif Image Height               : 626
+Image Size                      : 500x626
+Megapixels                      : 0.313

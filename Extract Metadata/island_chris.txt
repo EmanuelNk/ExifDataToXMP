@@ -1,0 +1,377 @@
+ExifTool Version Number         : 13.03
+File Name                       : island.jpg
+Directory                       : .
+File Size                       : 5.5 MB
+File Modification Date/Time     : 2024:11:24 15:49:42+02:00
+File Access Date/Time           : 2024:11:24 15:49:43+02:00
+File Inode Change Date/Time     : 2024:11:24 15:49:42+02:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Little-endian (Intel, II)
+Make                            : DJI
+Camera Model Name               : FC220
+X Resolution                    : 14
+Y Resolution                    : 14
+Resolution Unit                 : inches
+Software                        : Adobe Lightroom 5.4 (Macintosh)
+Modify Date                     : 2022:06:28 16:33:30
+Exposure Time                   : 1/80
+F Number                        : 2.2
+Exposure Program                : Unknown (8176)
+ISO                             : 100
+Exif Version                    : 0231
+Date/Time Original              : 2018:06:28 13:50:42
+Create Date                     : 2018:06:28 13:50:42
+Offset Time                     : -04:00
+Shutter Speed Value             : 1/80
+Aperture Value                  : 2.2
+Exposure Compensation           : 0
+Max Aperture Value              : 2.2
+Subject Distance                : 0 m
+Metering Mode                   : Center-weighted average
+Light Source                    : Daylight
+Flash                           : No flash function
+Focal Length                    : 4.7 mm
+Color Space                     : sRGB
+File Source                     : Digital Camera
+Scene Type                      : Directly photographed
+Custom Rendered                 : Normal
+Exposure Mode                   : Manual
+White Balance                   : Manual
+Digital Zoom Ratio              : 0
+Focal Length In 35mm Format     : 26 mm
+Scene Capture Type              : Standard
+Gain Control                    : None
+Contrast                        : Normal
+Saturation                      : Normal
+Sharpness                       : Normal
+Subject Distance Range          : Unknown
+Serial Number                   : 2014031100
+Lens Info                       : 26.3mm f/2.2
+Lens Model                      : 26.3 mm f/2.2
+GPS Version ID                  : 2.2.0.0
+GPS Latitude Ref                : North
+GPS Longitude Ref               : West
+GPS Altitude                    : 240.6 m
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 1028
+Thumbnail Length                : 9480
+Displayed Units X               : inches
+Displayed Units Y               : inches
+Current IPTC Digest             : d0c56e4628e968abe382b1628f1a3742
+Coded Character Set             : UTF8
+Application Record Version      : 4
+Time Created                    : 13:50:42
+Digital Creation Date           : 2018:06:28
+Digital Creation Time           : 13:50:42
+Photoshop Thumbnail             : (Binary data 9480 bytes, use -b option to extract)
+IPTC Digest                     : d0c56e4628e968abe382b1628f1a3742
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+XMP Toolkit                     : Adobe XMP Core 7.0-c000 1.000000, 0000/00/00-00:00:00
+About                           : DJI Meta Data
+Creator Tool                    : Adobe Lightroom 5.4 (Macintosh)
+Metadata Date                   : 2022:06:28 16:33:30-04:00
+Format                          : image/jpeg
+Absolute Altitude               : +161.37
+Relative Altitude               : +240.60
+Gimbal Roll Degree              : +53.80
+Gimbal Yaw Degree               : -133.00
+Gimbal Pitch Degree             : -36.10
+Flight Roll Degree              : +5.30
+Flight Yaw Degree               : -132.60
+Flight Pitch Degree             : +3.00
+Lens                            : 26.3 mm f/2.2
+Approximate Focus Distance      : 0
+Vignette Correction Already Applied: True
+Date Created                    : 2018:06:28 13:50:42
+Document ID                     : xmp.did:0ef6b92d-aa22-456d-9719-d9a451892ae5
+Original Document ID            : 4F24678A9C86968BB4453FCBB683E82B
+Instance ID                     : xmp.iid:0ef6b92d-aa22-456d-9719-d9a451892ae5
+Raw File Name                   : 
+Version                         : 14.4
+Compatible Version              : 234881024
+Process Version                 : 11.0
+Color Temperature               : 5500
+Tint                            : +5
+Exposure 2012                   : +0.19
+Contrast 2012                   : -2
+Highlights 2012                 : -86
+Shadows 2012                    : +40
+Whites 2012                     : +11
+Blacks 2012                     : -27
+Texture                         : +9
+Clarity 2012                    : -9
+Dehaze                          : 0
+Vibrance                        : +8
+Parametric Shadows              : -10
+Parametric Darks                : +15
+Parametric Lights               : -15
+Parametric Highlights           : 0
+Parametric Shadow Split         : 10
+Parametric Midtone Split        : 65
+Parametric Highlight Split      : 90
+Sharpen Radius                  : +1.2
+Sharpen Detail                  : 25
+Sharpen Edge Masking            : 0
+Luminance Smoothing             : 0
+Color Noise Reduction           : 25
+Color Noise Reduction Detail    : 50
+Color Noise Reduction Smoothness: 50
+Hue Adjustment Red              : +76
+Hue Adjustment Orange           : -12
+Hue Adjustment Yellow           : -8
+Hue Adjustment Green            : -100
+Hue Adjustment Aqua             : 0
+Hue Adjustment Blue             : -31
+Hue Adjustment Purple           : -56
+Hue Adjustment Magenta          : +15
+Saturation Adjustment Red       : -4
+Saturation Adjustment Orange    : -8
+Saturation Adjustment Yellow    : -31
+Saturation Adjustment Green     : -39
+Saturation Adjustment Aqua      : 0
+Saturation Adjustment Blue      : -71
+Saturation Adjustment Purple    : -73
+Saturation Adjustment Magenta   : -78
+Luminance Adjustment Red        : -20
+Luminance Adjustment Orange     : -10
+Luminance Adjustment Yellow     : 0
+Luminance Adjustment Green      : -25
+Luminance Adjustment Aqua       : -15
+Luminance Adjustment Blue       : -30
+Luminance Adjustment Purple     : -5
+Luminance Adjustment Magenta    : -15
+Split Toning Shadow Hue         : 0
+Split Toning Shadow Saturation  : 0
+Split Toning Highlight Hue      : 275
+Split Toning Highlight Saturation: 0
+Split Toning Balance            : 0
+Color Grade Midtone Hue         : 0
+Color Grade Midtone Sat         : 0
+Color Grade Shadow Lum          : 0
+Color Grade Midtone Lum         : 0
+Color Grade Highlight Lum       : 0
+Color Grade Blending            : 50
+Color Grade Global Hue          : 0
+Color Grade Global Sat          : 0
+Color Grade Global Lum          : 0
+Auto Lateral CA                 : 0
+Lens Profile Enable             : 0
+Lens Manual Distortion Amount   : 0
+Vignette Amount                 : 0
+Defringe Purple Amount          : 0
+Defringe Purple Hue Lo          : 30
+Defringe Purple Hue Hi          : 70
+Defringe Green Amount           : 0
+Defringe Green Hue Lo           : 40
+Defringe Green Hue Hi           : 60
+Perspective Upright             : Off
+Perspective Vertical            : 0
+Perspective Horizontal          : 0
+Perspective Rotate              : 0.0
+Perspective Aspect              : 0
+Perspective Scale               : 100
+Perspective X                   : 0.00
+Perspective Y                   : 0.00
+Grain Amount                    : 17
+Grain Size                      : 35
+Grain Frequency                 : 35
+Post Crop Vignette Amount       : 0
+Post Crop Vignette Midpoint     : 47
+Post Crop Vignette Feather      : 86
+Shadow Tint                     : -5
+Red Hue                         : +10
+Red Saturation                  : +10
+Green Hue                       : +10
+Green Saturation                : -10
+Blue Hue                        : 0
+Blue Saturation                 : 0
+Convert To Grayscale            : False
+Override Look Vignette          : False
+Tone Curve Name 2012            : Custom
+Camera Profile                  : Embedded
+Camera Profile Digest           : EA18CFF5535371F367E74E4125CAB8B3
+Grain Seed                      : 2042174572
+Has Settings                    : True
+Crop Top                        : 0
+Crop Left                       : 0
+Crop Bottom                     : 1
+Crop Right                      : 1
+Crop Angle                      : 0
+Crop Constrain To Warp          : 0
+Has Crop                        : False
+Already Applied                 : True
+History Action                  : derived, saved, edited, derived, saved, derived, saved, edited, derived, saved
+History Parameters              : saved to new location, saved to new location, saved to new location, converted from image/dng to image/jpeg, saved to new location
+History Instance ID             : xmp.iid:7a9eb86d-8b33-4680-86dc-6e406874172c, xmp.iid:860baede-29b1-484f-850e-f0893e5b9491, xmp.iid:3ede04f3-febd-40fb-bc56-1e12099fe4c1, xmp.iid:0ef6b92d-aa22-456d-9719-d9a451892ae5
+History When                    : 2018:10:30 17:18:03-04:00, 2020:12:04 16:11:25Z, 2021:06:07 20:53:41-04:00, 2021:06:08 15:43:27-04:00, 2021:11:15 21:54:10.432Z, 2022:06:28 16:33:30-04:00
+History Software Agent          : Adobe Photoshop Lightroom Classic 7.5 (Macintosh), Adobe Lightroom 4.2 (Macintosh), Adobe Photoshop Lightroom Classic 10.2 (Macintosh), Adobe Lightroom 5.4 (Macintosh)
+History Changed                 : /, /, /, /
+Derived From Instance ID        : xmp.iid:3ede04f3-febd-40fb-bc56-1e12099fe4c1
+Derived From Document ID        : xmp.did:3ede04f3-febd-40fb-bc56-1e12099fe4c1
+Derived From Original Document ID: 4F24678A9C86968BB4453FCBB683E82B
+Tone Curve PV2012               : 0, 24, 61, 61, 180, 169, 255, 255
+Tone Curve PV2012 Red           : 0, 0, 37, 7, 55, 24, 107, 113, 171, 205, 255, 255
+Tone Curve PV2012 Green         : 0, 0, 37, 8, 54, 24, 105, 114, 169, 205, 255, 251
+Tone Curve PV2012 Blue          : 0, 0, 50, 30, 103, 117, 172, 202, 255, 244
+Retouch Area Spot Type          : heal
+Retouch Area Source State       : sourceAutoComputed
+Retouch Area Method             : gaussian
+Retouch Area Heal Version       : 2
+Retouch Area Source X           : 0.366077
+Retouch Area Offset Y           : 0.854907
+Retouch Area Opacity            : 1
+Retouch Area Feather            : 0.212934
+Retouch Area Seed               : 2
+Retouch Area Mask What          : Mask/Paint
+Retouch Area Mask Mask Active   : true
+Retouch Area Mask Mask Blend Mode: 0
+Retouch Area Mask Mask Inverted : false
+Retouch Area Mask Mask Sync ID  : 8A44743F0ACDA54687500347FE283E8F
+Retouch Area Mask Value         : 1
+Retouch Area Mask Radius        : 0.011039
+Retouch Area Mask Flow          : 1
+Retouch Area Mask Center Weight : 0.5
+Retouch Area Mask Dabs          : d 0.378704 0.927707
+Mask Group Based Corr Correction Name: Mask 1, Mask 2, Mask 3, Mask 4, Mask 5, Mask 6, Mask 7, Mask 8, Mask 9, Mask 10, Mask 11, Mask 12, Mask 13, Mask 14, Mask 15, Mask 16
+Mask Group Based Corr Correction Sync ID: 8CF94D4C9D0F474B9D2AB9C47D6A644C, 6F00FEE9FCBCA54582C634FA40CE4E7B, 14DFF8F9990B294CB32F606462ABDC92, D4DC697D099D674CAFFEC087C6403874, 81A5214E48861141BDC8A89AE1078234, 32BE570DF918F14C9025990C76B02442, C5F387EE45586E4BA867273E9BAA0D75, 57BF097B70E80E4A9B86C678216E8A2C, 809EBB7FFBA18946B3EEC619F8891A0D, F97E9D1B543B644396A58871E39EB214, D3321DD06756754295F59EDD45822449, 364E2348C8A71A438B9B56E18AD41000, 3627FCD1F82BC149ACEEA836E8BE590C, F9962564C012F14D84589454454ADCCC, AEF7C8AB180A4806B5EBB2494E58D964, 3E32CB7C6CD24699B9EB6C014570D821
+Mask Group Based Corr Mask Masks Dabs: d 0.449906 0.277830, d 0.465156 0.309434, d 0.479730 0.341987, d 0.495099 0.373382, d 0.510514 0.405174, d 0.513200 0.401534, d 0.499733 0.368219, d 0.484828 0.335952, d 0.469395 0.304110, d 0.451312 0.274889, d 0.436490 0.252270, d 0.420672 0.233287, d 0.403075 0.205110, d 0.392274 0.192649, d 0.387166 0.229926, d 0.383692 0.267558, d 0.381339 0.305254, M 0.384710 0.335647, M 0.384710 0.373567, M 0.384710 0.411486, M 0.384710 0.449405, M 0.383223 0.486448, M 0.353485 0.508913, M 0.353485 0.546832, M 0.358459 0.584138, M 0.364697 0.621122, M 0.371185 0.640182, M 0.369432 0.602367, M 0.367128 0.564572, M 0.361056 0.527569, M 0.361700 0.547788, M 0.366398 0.574852, M 0.355298 0.540926, M 0.357309 0.578522, M 0.363628 0.615485, M 0.359521 0.614355, M 0.352025 0.577867, M 0.346554 0.540694, M 0.343302 0.503024, M 0.341943 0.507888, M 0.344570 0.545490, M 0.349682 0.582791, M 0.354615 0.620133, M 0.359561 0.656845, M 0.376090 0.687658, M 0.391433 0.718739, M 0.410491 0.746190, M 0.432023 0.770916, M 0.458339 0.784560, M 0.486000 0.779627, M 0.512548 0.766119, M 0.525493 0.753492, M 0.497073 0.753492, M 0.501526 0.755575, M 0.527778 0.741064, M 0.553732 0.725615, M 0.571094 0.727865, M 0.562919 0.733193, M 0.558078 0.737449, M 0.581156 0.715688, M 0.579445 0.690863, M 0.573351 0.656231, M 0.574888 0.618376, M 0.588515 0.642964, M 0.591722 0.646823, M 0.576273 0.615080, M 0.588428 0.628349, M 0.570922 0.598493, M 0.573573 0.608448, M 0.585939 0.642583, M 0.598149 0.676825, M 0.609697 0.711455, M 0.620384 0.746592, M 0.630888 0.781817, M 0.636815 0.800008, M 0.645482 0.798342, M 0.638934 0.771305, M 0.626392 0.777697, M 0.602818 0.756521, M 0.579424 0.734988, M 0.555432 0.714783, M 0.531478 0.717933, M 0.521574 0.753331, M 0.537449 0.768191, M 0.517488 0.783983, M 0.490300 0.793036, M 0.462060 0.797156, M 0.434788 0.790881, M 0.408648 0.776031, M 0.383581 0.758250, M 0.360584 0.736024, M 0.340573 0.741294, M 0.332468 0.776378, M 0.344131 0.769695, M 0.366659 0.746859, M 0.370983 0.710573, M 0.361722 0.675206, M 0.342861 0.647296, M 0.327137 0.626109, M 0.326597 0.588200, M 0.329266 0.550557, M 0.330640 0.571516, M 0.329593 0.609395, M 0.326444 0.647035, M 0.328621 0.680921, M 0.317768 0.689543, M 0.337306 0.673043, M 0.345887 0.637431, M 0.347508 0.599588, M 0.346593 0.561786, M 0.341015 0.524610, M 0.334888 0.487743, M 0.341733 0.451039, M 0.350947 0.415175, M 0.359852 0.379189, M 0.365754 0.342177, M 0.353787 0.365447, M 0.348299 0.402436, M 0.347439 0.380336, M 0.343843 0.342956, M 0.337622 0.356017, M 0.336153 0.393869, M 0.344060 0.364675, M 0.353304 0.344325, M 0.354225 0.382103, M 0.368817 0.410002, M 0.394717 0.397990, M 0.396507 0.407892, M 0.413567 0.377618, M 0.424725 0.357897, M 0.404826 0.384817, M 0.387955 0.415168, M 0.395866 0.417845, M 0.420701 0.399469, M 0.445915 0.381972, M 0.472390 0.368205, M 0.500052 0.360334, M 0.528357 0.357711, M 0.517667 0.337249, M 0.499505 0.308087, M 0.481342 0.278930, M 0.461135 0.252417, M 0.465540 0.221941, M 0.453512 0.187931, M 0.464662 0.210003, M 0.481822 0.240230, M 0.498181 0.267154, M 0.487132 0.232268, M 0.473202 0.199256, M 0.481530 0.224310, M 0.493229 0.258868, M 0.504875 0.293457, M 0.516547 0.328026, M 0.510435 0.301107, M 0.499231 0.266266, M 0.486323 0.232514, M 0.477053 0.216930, M 0.489298 0.243396, M 0.469708 0.215955, M 0.447074 0.193141, M 0.420720 0.179657, M 0.394424 0.167467, M 0.386689 0.163039, M 0.371534 0.195105, M 0.358068 0.228456, d 0.409500 0.212714, d 0.410834 0.174860, d 0.399595 0.159673, d 0.386711 0.178800, d 0.390107 0.188269, d 0.390043 0.194270, d 0.378306 0.225570, d 0.376104 0.263171, d 0.370228 0.252251, d 0.364104 0.243831, d 0.366919 0.210956, d 0.360808 0.219073, d 0.369388 0.183126, d 0.372341 0.178189, d 0.387855 0.146493, d 0.396738 0.117564, d 0.410391 0.145277, d 0.429173 0.173644, d 0.448862 0.199509, d 0.460771 0.233610, d 0.762722 0.604685, f -0.5000, d 0.771575 0.605066, d 0.780714 0.605066, d 0.789852 0.605066, d 0.798811 0.605066, d 0.789672 0.605066, d 0.780622 0.606501, d 0.771711 0.609161, d 0.762842 0.612097, d 0.753927 0.614710, d 0.762036 0.617367, d 0.771033 0.619406, d 0.779975 0.621896, d 0.786847 0.624113, d 0.777811 0.622866, d 0.770355 0.616164, d 0.770867 0.618102, d 0.776562 0.627638, d 0.782532 0.636748, d 0.790999 0.641019, d 0.800125 0.640706, d 0.809115 0.638552, d 0.818125 0.636669, d 0.360397 0.589586, d 0.360397 0.606581, d 0.360397 0.623576, d 0.360397 0.640571, d 0.360397 0.657567, d 0.360397 0.674562, d 0.360397 0.691557, d 0.360320 0.702558, d 0.359887 0.685573, d 0.358969 0.668631, d 0.357710 0.651719, d 0.356450 0.634808, d 0.355264 0.617887, d 0.354261 0.600945, d 0.353315 0.583997, d 0.352514 0.567036, d 0.353706 0.560727, d 0.360148 0.575388, d 0.366527 0.590094, d 0.372019 0.605429, d 0.376340 0.615294, d 0.371847 0.599391, d 0.367354 0.583489, d 0.362402 0.567832, d 0.357391 0.552208, d 0.352232 0.536671, d 0.346652 0.521413, d 0.346086 0.529391, d 0.348785 0.546001, d 0.351701 0.562519, d 0.356622 0.578194, d 0.361416 0.593938, d 0.363079 0.599833, d 0.356816 0.585046, d 0.349265 0.571413, d 0.344730 0.577126, d 0.344730 0.594121, d 0.346437 0.610868, d 0.349039 0.627503, d 0.345762 0.632561, d 0.337498 0.619630, d 0.328861 0.607151, d 0.331136 0.604761, d 0.341960 0.613706, d 0.345144 0.601616, d 0.344164 0.584671, d 0.343182 0.567727, d 0.340308 0.551170, d 0.337286 0.534661, d 0.336873 0.523130, d 0.346526 0.534219, d 0.355577 0.546174, d 0.362453 0.556046, d 0.357042 0.540661, d 0.351765 0.525206, d 0.348036 0.508956, d 0.344553 0.492632, d 0.342726 0.475813, d 0.342944 0.459149, d 0.354837 0.456923, d 0.366314 0.463899, d 0.377240 0.472610, d 0.373399 0.459942, d 0.366984 0.445260, d 0.360123 0.430957, d 0.360059 0.438875, d 0.365788 0.454055, d 0.371510 0.469239, d 0.377152 0.484469, d 0.379003 0.495499, d 0.371217 0.482048, d 0.363431 0.468598, d 0.355926 0.454870, d 0.348591 0.440976, d 0.341264 0.427074, d 0.333953 0.413157, d 0.331864 0.404070, d 0.341998 0.414366, d 0.352148 0.424635, d 0.362148 0.435147, d 0.366078 0.434294, d 0.361946 0.418218, d 0.356437 0.402894, d 0.350849 0.387622, d 0.345326 0.372323, d 0.349407 0.367606, d 0.360430 0.375865, d 0.370477 0.386312, d 0.380524 0.396759, d 0.390330 0.407602, d 0.400017 0.418637, d 0.409495 0.429990, d 0.408322 0.424775, d 0.402218 0.409858, d 0.396109 0.394945, d 0.390106 0.379957, d 0.384244 0.364868, d 0.378690 0.349576, d 0.379426 0.353396, d 0.384765 0.368821, d 0.389746 0.384463, d 0.394629 0.400159, d 0.399432 0.415899, d 0.395830 0.412305, d 0.388615 0.398299, d 0.381395 0.384298, d 0.374161 0.370309, d 0.366967 0.356285, d 0.359769 0.342266, d 0.363275 0.346706, d 0.371304 0.359897, d 0.379254 0.373176, d 0.380774 0.367598, d 0.376843 0.351439, d 0.372130 0.335650, d 0.367531 0.319802, d 0.364978 0.323165, d 0.366328 0.339975, d 0.368798 0.356647, d 0.371157 0.373348, d 0.373274 0.390106, d 0.373396 0.407080, d 0.366173 0.420665, d 0.354701 0.426981, d 0.345636 0.437884, d 0.341342 0.453815, d 0.339022 0.470523, d 0.337391 0.487377, d 0.333862 0.500693, d 0.335807 0.484334, d 0.341698 0.469266, d 0.349560 0.455904, d 0.360327 0.447394, d 0.371654 0.454223, d 0.378281 0.468736, d 0.383084 0.484389, d 0.387192 0.500476, d 0.389145 0.517139, d 0.389763 0.534106, d 0.389459 0.551002, d 0.383418 0.565945, d 0.376114 0.579847, d 0.370319 0.594912, d 0.366678 0.611175, d 0.364954 0.628013, d 0.362803 0.644761, d 0.360235 0.661398, d 0.356091 0.677469, d 0.351732 0.693436, d 0.342575 0.702198, d 0.329841 0.701961, d 0.317248 0.699963, d 0.316944 0.698069, d 0.329505 0.696548, d 0.337068 0.698190, d 0.346899 0.707626, d 0.358642 0.705311, d 0.368602 0.696401, d 0.378560 0.685967, d 0.388121 0.674738, d 0.389076 0.663297, d 0.378846 0.221312, d 0.391531 0.222839, d 0.404205 0.224535, d 0.416912 0.225638, d 0.603185 0.691986, d 0.611720 0.704438, d 0.620696 0.716496, d 0.630144 0.727887, d 0.640085 0.738502, d 0.648271 0.751347, d 0.655673 0.765171, d 0.663431 0.778649, d 0.665411 0.792145, d 0.652685 0.792208, d 0.640285 0.788673, d 0.628038 0.784044, d 0.616079 0.778205, d 0.620257 0.775223, d 0.628074 0.786801, d 0.630630 0.803200, d 0.630943 0.820149, d 0.627472 0.835912, d 0.620048 0.835416, d 0.620685 0.818563, d 0.624850 0.802502, d 0.630582 0.787390, d 0.637239 0.772911, d 0.640510 0.764408, d 0.629545 0.772925, d 0.617401 0.777576, d 0.604722 0.778756, d 0.591987 0.779075, d 0.579250 0.779075, d 0.566512 0.779075, d 0.553778 0.779209, d 0.541112 0.780852, d 0.528680 0.784528, d 0.522573 0.784940, d 0.535311 0.784940, d 0.548048 0.784940, d 0.541236 0.782239, d 0.528795 0.778589, d 0.516351 0.774961, d 0.503810 0.772001, d 0.500304 0.768130, d 0.512544 0.763482, d 0.523854 0.755663, d 0.534879 0.747161, d 0.529338 0.744500, d 0.516830 0.747566, d 0.505257 0.754666, d 0.494084 0.762801, d 0.492604 0.773922, d 0.485883 0.777648, d 0.473145 0.777648, d 0.460408 0.777648, d 0.447670 0.777648, d 0.459533 0.777648, d 0.472271 0.777648, d 0.485009 0.777648, d 0.497746 0.777648, d 0.504844 0.779155, d 0.515523 0.788346, d 0.526923 0.795929, d 0.538495 0.803026, d 0.550314 0.809344, d 0.554311 0.819009, d 0.548731 0.834282, d 0.541959 0.848643, d 0.531139 0.856387, d 0.520860 0.848493, d 0.521199 0.840267, d 0.531421 0.850306, d 0.530296 0.854053, d 0.519688 0.844646, d 0.508936 0.835536, d 0.498160 0.826474, d 0.489089 0.818807, d 0.489895 0.820515, d 0.481670 0.811313, d 0.491930 0.821376, d 0.502235 0.831364, d 0.512209 0.841888, d 0.523717 0.848282, d 0.536039 0.846321, d 0.548409 0.842647, d 0.560735 0.838621, d 0.572186 0.831222, d 0.583526 0.823560, d 0.594790 0.815656, d 0.605837 0.807194, d 0.617159 0.799440, d 0.628698 0.792242, d 0.640832 0.787083, d 0.653221 0.783174, d 0.665617 0.779272, d 0.673601 0.769701, d 0.667815 0.754667, d 0.661641 0.739807, d 0.655143 0.725191, d 0.648458 0.710724, d 0.641807 0.696231, d 0.634802 0.682044, d 0.535936 0.350927, d 0.535936 0.333932, d 0.535936 0.316937, d 0.535936 0.330526, d 0.535936 0.347521, d 0.793358 0.629742, d 0.805911 0.632418, d 0.818181 0.636980, d 0.830411 0.641718, d 0.842498 0.647084, d 0.854584 0.652450, d 0.866635 0.657945, d 0.878513 0.664084, d 0.890391 0.670222, d 0.902236 0.676461, d 0.913702 0.683863, d 0.924914 0.691876, d 0.932286 0.697638, d 0.921240 0.689174, d 0.910195 0.680710, d 0.899149 0.672246, d 0.888103 0.663782, d 0.876909 0.655673, d 0.865714 0.647567, d 0.854518 0.639460, d 0.843323 0.631354, d 0.831931 0.623761, d 0.820444 0.616418, d 0.808956 0.609076, d 0.797313 0.602182, d 0.802405 0.604572, d 0.813780 0.612220, d 0.825116 0.619972, d 0.836451 0.627723, d 0.847900 0.635174, d 0.859355 0.642606, d 0.871026 0.649396, d 0.882785 0.655867, d 0.870060 0.655869, d 0.857322 0.655869, d 0.844584 0.655869, d 0.831847 0.655869, d 0.819109 0.655869, d 0.808997 0.657627, d 0.820088 0.665236, d 0.831899 0.671600, d 0.843766 0.677749, d 0.855999 0.682484, d 0.868233 0.687219, d 0.880550 0.691488, d 0.893060 0.694688, d 0.905577 0.697839, d 0.915038 0.699804, d 0.903257 0.693344, d 0.891594 0.686514, d 0.879971 0.679563, d 0.868282 0.672821, d 0.856380 0.666766, d 0.844468 0.660746, d 0.832454 0.655101, d 0.837064 0.658476, d 0.848246 0.666610, d 0.859278 0.675105, d 0.870294 0.683635, d 0.881092 0.692652, d 0.891943 0.701551, d 0.888197 0.703342, d 0.876793 0.695771, d 0.865389 0.688200, d 0.853967 0.680679, d 0.842483 0.673325, d 0.831000 0.665971, d 0.819516 0.658617, d 0.807945 0.651514, d 0.796364 0.644435, d 0.789330 0.639544, d 0.800913 0.646615, d 0.812574 0.653446, d 0.824349 0.659927, d 0.836131 0.666386, d 0.841781 0.665897, d 0.831871 0.655219, d 0.821941 0.644576, d 0.811970 0.634000, d 0.801999 0.623424, d 0.791816 0.613215, d 0.781165 0.603933, d 0.790600 0.608929, d 0.801940 0.616670, d 0.813327 0.624286, d 0.824714 0.631901, d 0.836061 0.639624, d 0.847394 0.647383, d 0.858726 0.655142, d 0.870036 0.662962, d 0.881259 0.670995, d 0.875327 0.673622, d 0.862592 0.673553, d 0.849907 0.672012, d 0.837311 0.669712, d 0.824884 0.665977, d 0.812694 0.661166, d 0.800867 0.654873, d 0.790651 0.644801, d 0.780463 0.634607, d 0.770523 0.624028, d 0.760012 0.614433, d 0.761387 0.608289, d 0.794754 0.612464, d 0.790135 0.611247, d 0.785594 0.609548, d 0.781091 0.607728, d 0.776519 0.606183, d 0.775929 0.604700, d 0.780609 0.605256, d 0.785251 0.606369, d 0.789882 0.607567, d 0.790700 0.608055, d 0.786141 0.606475, d 0.781656 0.604523, d 0.777040 0.603264, d 0.778158 0.603926, d 0.782445 0.606497, d 0.786625 0.609413, d 0.785857 0.610586, d 0.781383 0.608594, d 0.781559 0.608389, d 0.786052 0.610280, d 0.790375 0.612607, d 0.782239 0.600571, d 0.777625 0.601853, d 0.773051 0.603390, d 0.769353 0.605270, d 0.773026 0.609158, d 0.777006 0.612536, d 0.780986 0.615914, d 0.784920 0.619385, d 0.788826 0.622915, d 0.787742 0.622316, d 0.783718 0.619049, d 0.779402 0.616509, d 0.781018 0.621780, d 0.784286 0.626318, d 0.787555 0.630856, d 0.790742 0.635496, d 0.793968 0.640086, d 0.794391 0.642487, d 0.790275 0.639411, d 0.786186 0.636277, d 0.782244 0.632822, d 0.778269 0.629434, d 0.774388 0.625899, d 0.777453 0.629513, d 0.781105 0.633496, d 0.784738 0.637508, d 0.788262 0.641692, d 0.787371 0.641188, d 0.784081 0.636678, d 0.780791 0.632168, d 0.777490 0.627671, d 0.774166 0.623206, d 0.770833 0.618753, d 0.772215 0.619643, d 0.770536 0.617256, d 0.775093 0.618826, d 0.779529 0.620943, d 0.783924 0.623228, d 0.788191 0.625905, d 0.792437 0.628646, d 0.796657 0.631457, d 0.800796 0.634470, d 0.804869 0.637609
+Mask Group Based Corr Range Mask Version: 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2
+Mask Group Based Corr Range Mask Type: 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+Mask Group Based Corr Range Mask Color Amount: 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5
+Mask Group Based Corr Range Mask Lum Min: 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+Mask Group Based Corr Range Mask Lum Max: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+Mask Group Based Corr Range Mask Lum Feather: 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5
+Mask Group Based Corr Range Mask Depth Min: 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+Mask Group Based Corr Range Mask Depth Max: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+Mask Group Based Corr Range Mask Depth Feather: 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5
+Mask Group Based Corr Mask Masks What: Mask/Paint
+Mask Group Based Corr Mask Masks Mask Active: true
+Mask Group Based Corr Mask Masks Mask Blend Mode: 0
+Mask Group Based Corr Mask Masks Mask Inverted: false
+Mask Group Based Corr Mask Masks Mask Sync ID: 66D7387FEE1D684A99FA029461BABBB1
+Mask Group Based Corr Mask Masks Value: 1
+Mask Group Based Corr Mask Masks Radius: 0.015723
+Mask Group Based Corr Mask Masks Flow: 0.5
+Mask Group Based Corr Mask Masks Center Weight: 0.105656
+Mask Group Based Corr Mask Top  : -0.110405
+Mask Group Based Corr Mask Left : 0.09281
+Mask Group Based Corr Mask Bottom: 1.15609
+Mask Group Based Corr Mask Right: 0.910241
+Mask Group Based Corr Mask Angle: 0
+Mask Group Based Corr Mask Midpoint: 50
+Mask Group Based Corr Mask Roundness: 0
+Mask Group Based Corr Mask Feather: 50
+Mask Group Based Corr Mask Flipped: false
+Mask Group Based Corr Mask Version: 2
+Mask Group Based Corr Mask Zero X: 0.554922
+Mask Group Based Corr Mask Zero Y: 0.529628
+Mask Group Based Corr Mask Full X: 0.08418
+Mask Group Based Corr Mask Full Y: 0.862019
+Mask Group Based Corr What      : Correction
+Mask Group Based Corr Amount    : 1
+Mask Group Based Corr Active    : true
+Mask Group Based Corr Hue       : 0.010543
+Mask Group Based Corr Saturation: 0.100604
+Mask Group Based Corr Sharpness : 0
+Mask Group Based Corr Brightness: 0
+Mask Group Based Corr Toning Hue: 0
+Mask Group Based Corr Toning Saturation: 0
+Mask Group Based Corr Exposure 2012: 0
+Mask Group Based Corr Contrast 2012: 0
+Mask Group Based Corr Highlights 2012: 0
+Mask Group Based Corr Shadows 2012: 0.639004
+Mask Group Based Corr Whites 2012: 0
+Mask Group Based Corr Blacks 2012: -0.113318
+Mask Group Based Corr Clarity 2012: 0
+Mask Group Based Corr Dehaze    : 0
+Mask Group Based Corr Luminance Noise: 0
+Mask Group Based Corr Moire     : 0
+Mask Group Based Corr Defringe  : 0
+Mask Group Based Corr Temperature: 0.071271
+Mask Group Based Corr Tint      : 0
+Mask Group Based Corr Texture   : 0
+Mask Group Based Corr Mask What : Mask/Image
+Mask Group Based Corr Mask Mask Active: true
+Mask Group Based Corr Mask Mask Name: Subject 1
+Mask Group Based Corr Mask Mask Blend Mode: 0
+Mask Group Based Corr Mask Mask Inverted: false
+Mask Group Based Corr Mask Mask Sync ID: 36783AC46BFF400EB8CA05BA6C20402B
+Mask Group Based Corr Mask Value: 1
+Mask Group Based Corr Mask Mask Version: 1
+Mask Group Based Corr Mask Mask Sub Type: 1
+Mask Group Based Corr Mask Reference Point: 0.421875 0.281250
+Mask Group Based Corr Mask Input Digest: 14F3DC5AEFAF3522466C1EEDA035897C
+Mask Group Based Corr Mask Mask Digest: 003B4B36E25761DA099C458C1AB5008B
+Mask Group Based Corr Mask Whole Image Area: 0/1,0/1,1919/1,2560/1
+Mask Group Based Corr Mask Origin: 745,190
+Mask Group Based Corr Mask Model Version: 234881976
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14], Encoded with Blend=1 downsampling
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 1919
+Image Height                    : 2560
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Aperture                        : 2.2
+Image Size                      : 1919x2560
+Megapixels                      : 4.9
+Scale Factor To 35 mm Equivalent: 5.5
+Shutter Speed                   : 1/80
+Modify Date                     : 2022:06:28 16:33:30-04:00
+Thumbnail Image                 : (Binary data 9480 bytes, use -b option to extract)
+GPS Latitude                    : 37 deg 42' 29.42" N
+GPS Longitude                   : 25 deg 26' 23.13" W
+Date/Time Created               : 2018:06:28 13:50:42
+Digital Creation Date/Time      : 2018:06:28 13:50:42
+Circle Of Confusion             : 0.005 mm
+Depth Of Field                  : inf (0.00 m - inf)
+Field Of View                   : 69.4 deg
+Focal Length                    : 4.7 mm (35 mm equivalent: 26.0 mm)
+GPS Position                    : 37 deg 42' 29.42" N, 25 deg 26' 23.13" W
+Hyperfocal Distance             : 1.85 m
+Light Value                     : 8.6
+Lens ID                         : 26.3mm f/2.2

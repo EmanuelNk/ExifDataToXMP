@@ -1,0 +1,222 @@
+ExifTool Version Number         : 13.03
+File Name                       : door.jpg
+Directory                       : .
+File Size                       : 1630 kB
+File Modification Date/Time     : 2024:11:20 17:50:47+02:00
+File Access Date/Time           : 2024:11:20 17:50:49+02:00
+File Inode Change Date/Time     : 2024:11:20 17:50:47+02:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 300
+Displayed Units X               : inches
+Y Resolution                    : 300
+Displayed Units Y               : inches
+Current IPTC Digest             : d6c2a215b052a5cd1a0ae86a185ffb9a
+Coded Character Set             : UTF8
+Application Record Version      : 4
+Time Created                    : 06:59:56
+Digital Creation Date           : 2020:07:29
+Digital Creation Time           : 07:00:00
+Photoshop Thumbnail             : (Binary data 10372 bytes, use -b option to extract)
+IPTC Digest                     : d6c2a215b052a5cd1a0ae86a185ffb9a
+XMP Toolkit                     : Image::ExifTool 11.16
+Distortion Correction Already Applied: True
+Is Merged Panorama              : True
+Lateral Chromatic Aberration Correction Already Applied: True
+Lens                            : 28.0 mm f/2.8
+Lens Info                       : 28mm f/2.8-11
+Serial Number                   : 0K8TFA50024159
+Format                          : image/jpeg
+Absolute Altitude               : +87.20
+Flight Pitch Degree             : +2.80
+Flight Roll Degree              : +0.00
+Flight Yaw Degree               : +101.90
+Gimbal Pitch Degree             : -8.90
+Gimbal Roll Degree              : +0.00
+Gimbal Yaw Degree               : +90.70
+Relative Altitude               : +52.10
+Date Created                    : 2020:07:29 06:59:56
+Create Date                     : 2020:07:29 07:00:00
+Creator Tool                    : Adobe Photoshop Lightroom Classic 9.3 (Windows)
+Metadata Date                   : 2020:08:01 18:21:11+01:00
+Modify Date                     : 2020:08:01 18:21:11+01:00
+Derived From Document ID        : xmp.did:569ac2c9-c1f2-454b-a478-a1550c56cf32
+Derived From Instance ID        : xmp.iid:fe0771eb-3d15-1e48-a6f2-4a022a8fc70a
+Derived From Original Document ID: 3B1A2BF3CDB15AADA77B35AF0F8907C2
+Document ID                     : xmp.did:b788ecff-a40e-3e48-960b-c64642ca514a
+History Action                  : derived, saved, derived, saved, saved, derived, saved
+History Parameters              : saved to new location, converted from image/dng to image/tiff, converted from image/tiff to image/jpeg, saved to new location
+History Changed                 : /, /, /, /
+History Instance ID             : xmp.iid:ef72f069-3218-2c4b-91fe-f0ff555fdfbe, xmp.iid:569ac2c9-c1f2-454b-a478-a1550c56cf32, xmp.iid:fe0771eb-3d15-1e48-a6f2-4a022a8fc70a, xmp.iid:b788ecff-a40e-3e48-960b-c64642ca514a
+History Software Agent          : Adobe Photoshop Lightroom Classic 9.3 (Windows), Adobe Photoshop Camera Raw 12.3 (Windows), Adobe Photoshop 21.2 (Windows), Adobe Photoshop Lightroom Classic 9.3 (Windows)
+History When                    : 2020:07:30 22:26:02+01:00, 2020:08:01 18:17:47+01:00, 2020:08:01 18:20:33+01:00, 2020:08:01 18:21:11+01:00
+Instance ID                     : xmp.iid:b788ecff-a40e-3e48-960b-c64642ca514a
+Original Document ID            : 3B1A2BF3CDB15AADA77B35AF0F8907C2
+Preserved File Name             : PANO0001.DNG
+Already Applied                 : True
+Auto Lateral CA                 : 0
+Blacks 2012                     : 0
+Blue Hue                        : 0
+Blue Saturation                 : 0
+Camera Profile                  : Embedded
+Camera Profile Digest           : 54650A341B5B5CCAE8442D0B43A92BCE
+Clarity 2012                    : 0
+Color Noise Reduction           : 0
+Contrast 2012                   : 0
+Convert To Grayscale            : False
+Defringe Green Amount           : 0
+Defringe Green Hue Hi           : 60
+Defringe Green Hue Lo           : 40
+Defringe Purple Amount          : 0
+Defringe Purple Hue Hi          : 70
+Defringe Purple Hue Lo          : 30
+Dehaze                          : 0
+Exposure 2012                   : 0.00
+Grain Amount                    : 0
+Green Hue                       : 0
+Green Saturation                : 0
+Has Crop                        : False
+Has Settings                    : True
+Highlights 2012                 : 0
+Hue Adjustment Aqua             : 0
+Hue Adjustment Blue             : 0
+Hue Adjustment Green            : 0
+Hue Adjustment Magenta          : 0
+Hue Adjustment Orange           : 0
+Hue Adjustment Purple           : 0
+Hue Adjustment Red              : 0
+Hue Adjustment Yellow           : 0
+Incremental Temperature         : 0
+Incremental Tint                : 0
+Lens Manual Distortion Amount   : 0
+Lens Profile Enable             : 0
+Lens Profile Setup              : LensDefaults
+Luminance Adjustment Aqua       : 0
+Luminance Adjustment Blue       : 0
+Luminance Adjustment Green      : 0
+Luminance Adjustment Magenta    : 0
+Luminance Adjustment Orange     : 0
+Luminance Adjustment Purple     : 0
+Luminance Adjustment Red        : 0
+Luminance Adjustment Yellow     : 0
+Luminance Smoothing             : 0
+Parametric Darks                : 0
+Parametric Highlight Split      : 75
+Parametric Highlights           : 0
+Parametric Lights               : 0
+Parametric Midtone Split        : 50
+Parametric Shadow Split         : 25
+Parametric Shadows              : 0
+Perspective Aspect              : 0
+Perspective Horizontal          : 0
+Perspective Rotate              : 0.0
+Perspective Scale               : 100
+Perspective Upright             : Off
+Perspective Vertical            : 0
+Perspective X                   : 0.00
+Perspective Y                   : 0.00
+Post Crop Vignette Amount       : 0
+Process Version                 : 11.0
+Raw File Name                   : 
+Red Hue                         : 0
+Red Saturation                  : 0
+Saturation                      : 0
+Saturation Adjustment Aqua      : 0
+Saturation Adjustment Blue      : 0
+Saturation Adjustment Green     : 0
+Saturation Adjustment Magenta   : 0
+Saturation Adjustment Orange    : 0
+Saturation Adjustment Purple    : 0
+Saturation Adjustment Red       : 0
+Saturation Adjustment Yellow    : 0
+Shadow Tint                     : 0
+Shadows 2012                    : 0
+Sharpen Detail                  : 25
+Sharpen Edge Masking            : 0
+Sharpen Radius                  : +1.0
+Sharpness                       : 0
+Split Toning Balance            : 0
+Split Toning Highlight Hue      : 0
+Split Toning Highlight Saturation: 0
+Split Toning Shadow Hue         : 0
+Split Toning Shadow Saturation  : 0
+Tone Curve                      : 0, 0, 255, 255
+Tone Curve Blue                 : 0, 0, 255, 255
+Tone Curve Green                : 0, 0, 255, 255
+Tone Curve Name                 : Linear
+Tone Curve Name 2012            : Linear
+Tone Curve PV2012               : 0, 0, 255, 255
+Tone Curve PV2012 Blue          : 0, 0, 255, 255
+Tone Curve PV2012 Green         : 0, 0, 255, 255
+Tone Curve PV2012 Red           : 0, 0, 255, 255
+Tone Curve Red                  : 0, 0, 255, 255
+Tone Map Strength               : 0
+Upright Center Mode             : 0
+Upright Center Norm X           : 0.5
+Upright Center Norm Y           : 0.5
+Upright Focal Length 35mm       : 35
+Upright Focal Mode              : 0
+Upright Four Segments Count     : 0
+Upright Preview                 : False
+Upright Transform Count         : 6
+Upright Version                 : 151388160
+Version                         : 12.3
+Vibrance                        : 0
+Vignette Amount                 : 0
+White Balance                   : As Shot
+Whites 2012                     : 0
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+Image Width                     : 2500
+Image Height                    : 3125
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 2500x3125
+Megapixels                      : 7.8
+Date/Time Created               : 2020:07:29 06:59:56
+Digital Creation Date/Time      : 2020:07:29 07:00:00
+Date/Time Original              : 2020:07:29 06:59:56
+Lens ID                         : 28.0mm f/2.8

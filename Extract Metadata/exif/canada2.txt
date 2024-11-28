@@ -1,0 +1,258 @@
+ExifTool Version Number         : 13.03
+File Name                       : canada2.jpg
+Directory                       : .
+File Size                       : 403 kB
+File Modification Date/Time     : 2024:11:20 19:55:33+02:00
+File Access Date/Time           : 2024:11:20 19:55:36+02:00
+File Inode Change Date/Time     : 2024:11:20 19:55:34+02:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+XMP Toolkit                     : Image::ExifTool 12.16
+Approximate Focus Distance      : 2147483647
+Distortion Correction Already Applied: True
+Firmware                        : 1.6.0
+Flash Compensation              : 0
+Image Number                    : 1032
+Lateral Chromatic Aberration Correction Already Applied: True
+Lens                            : RF50mm F1.2 L USM
+Lens Info                       : 50mm f/?
+Lens Serial Number              : 1050001470
+Serial Number                   : 242026003651
+Vignette Correction Already Applied: True
+Creator                         : Garrett King
+Description                     : Shortstache Co..Garrett King
+Format                          : image/jpeg
+Rights                          : Shortstache
+Lens Model                      : RF50mm F1.2 L USM
+Color Class                     : 1 (Winner)
+PM Version                      : PM6
+Prefs                           : Tagged:0, ColorClass:1, Rating:0, FrameNum:001032
+Tagged                          : No
+Authors Position                : Photographer
+Create Date                     : 2022:09:29 05:27:09.40-08:00
+Creator Tool                    : Adobe Photoshop Lightroom Classic 12.1 (Macintosh)
+Label                           : Winner
+Metadata Date                   : 2023:01:03 22:40:53-08:00
+Modify Date                     : 2023:01:03 22:40:53-08:00
+Rating                          : 5
+Derived From Document ID        : 8A5B6AC5420AAF8D628626845C8C62C9
+Derived From Original Document ID: 8A5B6AC5420AAF8D628626845C8C62C9
+Document ID                     : xmp.did:0704da0b-653e-4b74-af37-ecaec8c72d48
+History Action                  : derived, saved
+History Parameters              : converted from image/x-canon-cr3 to image/jpeg, saved to new location
+History Changed                 : /
+History Instance ID             : xmp.iid:0704da0b-653e-4b74-af37-ecaec8c72d48
+History Software Agent          : Adobe Photoshop Lightroom Classic 12.1 (Macintosh)
+History When                    : 2023:01:03 22:40:53-08:00
+Instance ID                     : xmp.iid:0704da0b-653e-4b74-af37-ecaec8c72d48
+Original Document ID            : 8A5B6AC5420AAF8D628626845C8C62C9
+Preserved File Name             : {Shortstache}{2022}{Canada_Fall}310706.CR3
+Marked                          : True
+Already Applied                 : True
+Auto Lateral CA                 : 1
+Blacks 2012                     : +16
+Blue Hue                        : -20
+Blue Saturation                 : -6
+Camera Profile                  : Adobe Standard
+Camera Profile Digest           : 23A8FA817AB0E63610A09E90F3703131
+Clarity 2012                    : -3
+Color Grade Blending            : 100
+Color Grade Global Hue          : 0
+Color Grade Global Lum          : 0
+Color Grade Global Sat          : 0
+Color Grade Highlight Lum       : 0
+Color Grade Midtone Hue         : 191
+Color Grade Midtone Lum         : -7
+Color Grade Midtone Sat         : 5
+Color Grade Shadow Lum          : -7
+Color Noise Reduction           : 25
+Color Noise Reduction Detail    : 50
+Color Noise Reduction Smoothness: 50
+Contrast 2012                   : -8
+Crop Angle                      : 0
+Crop Bottom                     : 1
+Crop Constrain To Warp          : 0
+Crop Left                       : 0.037387
+Crop Right                      : 1
+Crop Top                        : 0.188192
+Defringe Green Amount           : 0
+Defringe Green Hue Hi           : 60
+Defringe Green Hue Lo           : 40
+Defringe Purple Amount          : 0
+Defringe Purple Hue Hi          : 70
+Defringe Purple Hue Lo          : 30
+Dehaze                          : +20
+Exposure 2012                   : +0.55
+Grain Amount                    : 0
+Green Hue                       : +29
+Green Saturation                : 0
+Has Crop                        : True
+Has Settings                    : True
+Highlights 2012                 : -54
+Hue Adjustment Aqua             : +1
+Hue Adjustment Blue             : -10
+Hue Adjustment Green            : -18
+Hue Adjustment Magenta          : +31
+Hue Adjustment Orange           : -1
+Hue Adjustment Purple           : +40
+Hue Adjustment Red              : +19
+Hue Adjustment Yellow           : -25
+Lens Manual Distortion Amount   : 0
+Lens Profile Digest             : D3A76560248A687B6CBE388B41E0C620
+Lens Profile Distortion Scale   : 100
+Lens Profile Enable             : 1
+Lens Profile Filename           : Canon (Canon RF 28-70mm F2 L USM) - RAW.lcp
+Lens Profile Is Embedded        : False
+Lens Profile Name               : Adobe (Canon RF 28-70mm F2 L USM)
+Lens Profile Setup              : Custom
+Lens Profile Vignetting Scale   : 160
+Look Amount                     : 1
+Look Group                      : Profiles
+Look Name                       : Adobe Vivid
+Look Parameters Camera Profile  : Adobe Standard
+Look Parameters Clarity 2012    : +10
+Look Parameters Convert To Grayscale: False
+Look Parameters Look Table      : 2FE663AB0D3CE5DA7B9F657BBCD66DFE
+Look Parameters Process Version : 11.0
+Look Parameters Tone Curve PV2012: 0, 0, 32, 22, 64, 56, 128, 128, 224, 232, 240, 246, 255, 255
+Look Parameters Version         : 15.1
+Look Supports Amount            : false
+Look Supports Monochrome        : false
+Look Supports Output Referred   : false
+Look UUID                       : EA1DE074F188405965EF399C72C221D9
+Luminance Adjustment Aqua       : -27
+Luminance Adjustment Blue       : -22
+Luminance Adjustment Green      : -15
+Luminance Adjustment Magenta    : 0
+Luminance Adjustment Orange     : -8
+Luminance Adjustment Purple     : -16
+Luminance Adjustment Red        : -8
+Luminance Adjustment Yellow     : -8
+Luminance Noise Reduction Contrast: 0
+Luminance Noise Reduction Detail: 50
+Luminance Smoothing             : 19
+Override Look Vignette          : False
+Parametric Darks                : -9
+Parametric Highlight Split      : 60
+Parametric Highlights           : -21
+Parametric Lights               : -14
+Parametric Midtone Split        : 36
+Parametric Shadow Split         : 16
+Parametric Shadows              : -2
+Perspective Aspect              : 0
+Perspective Horizontal          : 0
+Perspective Rotate              : 0.0
+Perspective Scale               : 100
+Perspective Upright             : Off
+Perspective Vertical            : 0
+Perspective X                   : 0.00
+Perspective Y                   : 0.00
+Post Crop Vignette Amount       : 0
+Process Version                 : 11.0
+Raw File Name                   : {Shortstache}{2022}{Canada_Fall}310706.CR3
+Red Hue                         : +24
+Red Saturation                  : -2
+Saturation                      : +7
+Saturation Adjustment Aqua      : -66
+Saturation Adjustment Blue      : -62
+Saturation Adjustment Green     : -66
+Saturation Adjustment Magenta   : -60
+Saturation Adjustment Orange    : -38
+Saturation Adjustment Purple    : -58
+Saturation Adjustment Red       : -41
+Saturation Adjustment Yellow    : -59
+Shadow Tint                     : -2
+Shadows 2012                    : +29
+Sharpen Detail                  : 25
+Sharpen Edge Masking            : 0
+Sharpen Radius                  : +1.0
+Sharpness                       : 42
+Split Toning Balance            : 0
+Split Toning Highlight Hue      : 179
+Split Toning Highlight Saturation: 0
+Split Toning Shadow Hue         : 40
+Split Toning Shadow Saturation  : 4
+Color Temperature               : 6419
+Texture                         : 0
+Tint                            : +2
+Tone Curve Name 2012            : Custom
+Tone Curve PV2012               : 0, 27, 46, 43, 112, 117, 158, 175, 255, 219
+Tone Curve PV2012 Blue          : 0, 0, 67, 69, 129, 132, 193, 192, 255, 255
+Tone Curve PV2012 Green         : 0, 0, 148, 149, 194, 197, 255, 255
+Tone Curve PV2012 Red           : 0, 0, 66, 66, 135, 135, 204, 205, 255, 255
+Version                         : 15.1
+Vibrance                        : +23
+Vignette Amount                 : 0
+White Balance                   : Custom
+Whites 2012                     : -48
+X Resolution                    : 460
+Displayed Units X               : inches
+Y Resolution                    : 460
+Displayed Units Y               : inches
+Current IPTC Digest             : 7885d9389291567327a6db836c739c9a
+Coded Character Set             : UTF8
+Application Record Version      : 4
+Date Created                    : 2022:09:29
+Time Created                    : 05:27:09-08:00
+Digital Creation Date           : 2022:09:29
+Digital Creation Time           : 05:27:09-08:00
+By-line                         : Garrett King
+By-line Title                   : Photographer
+Copyright Notice                : Shortstache
+Caption-Abstract                : Shortstache Co..Garrett King
+Copyright Flag                  : True
+Photoshop Thumbnail             : (Binary data 10468 bytes, use -b option to extract)
+IPTC Digest                     : 7885d9389291567327a6db836c739c9a
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+Image Width                     : 2500
+Image Height                    : 1406
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 2500x1406
+Megapixels                      : 3.5
+Date/Time Created               : 2022:09:29 05:27:09-08:00
+Digital Creation Date/Time      : 2022:09:29 05:27:09-08:00
+Date/Time Original              : 2022:09:29 05:27:09-08:00
+Lens ID                         : RF50mm F1.2 L USM

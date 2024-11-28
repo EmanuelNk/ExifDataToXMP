@@ -1,0 +1,272 @@
+ExifTool Version Number         : 13.03
+File Name                       : scotch.jpg
+Directory                       : .
+File Size                       : 293 kB
+File Modification Date/Time     : 2024:11:20 20:15:43+02:00
+File Access Date/Time           : 2024:11:20 20:15:45+02:00
+File Inode Change Date/Time     : 2024:11:20 20:15:43+02:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 300
+Displayed Units X               : inches
+Y Resolution                    : 300
+Displayed Units Y               : inches
+Current IPTC Digest             : 1a8e836038db121173eefbb3287fe4ca
+Coded Character Set             : UTF8
+Application Record Version      : 4
+Time Created                    : 18:19:59+00:00
+Digital Creation Date           : 2021:05:30
+Digital Creation Time           : 18:19:59+00:00
+By-line                         : luke stackpoole
+Photoshop Thumbnail             : (Binary data 9278 bytes, use -b option to extract)
+IPTC Digest                     : 1a8e836038db121173eefbb3287fe4ca
+XMP Toolkit                     : Image::ExifTool 11.16
+Lateral Chromatic Aberration Correction Already Applied: True
+Lens                            : 35mm F1.4 DG HSM | Art 012
+Lens Distort Info               : 32983/32768 -28066825/1073741824 17006005/1073741824 -2930262/1073741824
+Lens Info                       : 35mm f/1.4
+Creator                         : luke stackpoole
+Format                          : image/jpeg
+Lens Model                      : 35mm F1.4 DG HSM | Art 012
+Date Created                    : 2021:05:30 18:19:59Z
+Create Date                     : 2021:05:30 18:19:59Z
+Creator Tool                    : Adobe Photoshop Lightroom Classic 10.2 (Windows)
+Metadata Date                   : 2021:06:01 17:24:28+01:00
+Modify Date                     : 2021:06:01 17:24:28+01:00
+Derived From Document ID        : 21888D852EA2BEB8CA4EEC917FB8EEE6
+Derived From Original Document ID: 21888D852EA2BEB8CA4EEC917FB8EEE6
+Document ID                     : xmp.did:a6117672-2e31-6043-bc53-3bf5266587b1
+History Action                  : derived, saved
+History Parameters              : converted from image/x-sony-arw to image/jpeg, saved to new location
+History Changed                 : /
+History Instance ID             : xmp.iid:a6117672-2e31-6043-bc53-3bf5266587b1
+History Software Agent          : Adobe Photoshop Lightroom Classic 10.2 (Windows)
+History When                    : 2021:06:01 17:24:28+01:00
+Instance ID                     : xmp.iid:a6117672-2e31-6043-bc53-3bf5266587b1
+Original Document ID            : 21888D852EA2BEB8CA4EEC917FB8EEE6
+Preserved File Name             : DSC01781.ARW
+Already Applied                 : True
+Auto Lateral CA                 : 0
+Blacks 2012                     : +25
+Blue Hue                        : -10
+Blue Saturation                 : -10
+Camera Profile                  : Adobe Standard
+Camera Profile Digest           : 2D1D4700365C3E2831EEAE0D1A8F9CDF
+Clarity 2012                    : -10
+Color Noise Reduction           : 25
+Color Noise Reduction Detail    : 50
+Color Noise Reduction Smoothness: 50
+Contrast 2012                   : +29
+Crop Angle                      : 0
+Crop Bottom                     : 0.965723
+Crop Constrain To Warp          : 0
+Crop Left                       : 0.001259
+Crop Right                      : 0.957233
+Crop Top                        : 0.009749
+Defringe Green Amount           : 0
+Defringe Green Hue Hi           : 60
+Defringe Green Hue Lo           : 40
+Defringe Purple Amount          : 0
+Defringe Purple Hue Hi          : 70
+Defringe Purple Hue Lo          : 30
+Dehaze                          : 0
+Exposure 2012                   : +0.67
+Gradient Based Corr Active      : True
+Gradient Based Corr Amount      : 1.000000
+Gradient Based Corr Mask Full X : 0.883976
+Gradient Based Corr Mask Full Y : 0.230177
+Gradient Based Corr Mask Value  : 1.000000
+Gradient Based Corr Mask What   : Mask/Gradient
+Gradient Based Corr Mask Zero X : 0.468336
+Gradient Based Corr Mask Zero Y : 0.364126
+Gradient Based Corr Brightness  : 0.000000
+Gradient Based Corr Clarity 2012: 0.000000
+Gradient Based Corr Contrast 2012: 0.000000
+Gradient Based Corr Defringe    : 0.000000
+Gradient Based Corr Exposure 2012: 0.175250
+Gradient Based Corr Highlights 2012: 0.000000
+Gradient Based Corr Luminance Noise: 0.000000
+Gradient Based Corr Moire       : 0.000000
+Gradient Based Corr Saturation  : 0.000000
+Gradient Based Corr Shadows 2012: 0.000000
+Gradient Based Corr Sharpness   : 0.000000
+Gradient Based Corr Temperature : -0.308060
+Gradient Based Corr Tint        : 0.000000
+Gradient Based Corr Toning Hue  : 0.000000
+Gradient Based Corr Toning Saturation: 0.000000
+Gradient Based Corr What        : Correction
+Grain Amount                    : 0
+Green Hue                       : +30
+Green Saturation                : -30
+Has Crop                        : True
+Has Settings                    : True
+Highlights 2012                 : -63
+Hue Adjustment Aqua             : -36
+Hue Adjustment Blue             : -10
+Hue Adjustment Green            : -43
+Hue Adjustment Magenta          : 0
+Hue Adjustment Orange           : 0
+Hue Adjustment Purple           : 0
+Hue Adjustment Red              : +20
+Hue Adjustment Yellow           : -27
+Lens Manual Distortion Amount   : 0
+Lens Profile Enable             : 0
+Luminance Adjustment Aqua       : +37
+Luminance Adjustment Blue       : -9
+Luminance Adjustment Green      : +37
+Luminance Adjustment Magenta    : -43
+Luminance Adjustment Orange     : +15
+Luminance Adjustment Purple     : -32
+Luminance Adjustment Red        : -17
+Luminance Adjustment Yellow     : +15
+Luminance Smoothing             : 0
+Paint Correction Active         : True
+Paint Correction Amount         : 1.000000
+Paint Correction Mask Center Weight: 0.000000
+Paint Correction Mask Dabs      : d 0.262055 0.374891
+Paint Correction Mask Flow      : 1.000000
+Paint Correction Mask Value     : 1.000000
+Paint Correction Mask Radius    : 0.100400
+Paint Correction Mask What      : Mask/Paint
+Paint Correction Brightness     : 0.000000
+Paint Correction Clarity 2012   : 0.000000
+Paint Correction Contrast 2012  : 0.000000
+Paint Correction Defringe       : 0.000000
+Paint Correction Exposure 2012  : 0.000000
+Paint Correction Highlights 2012: 0.000000
+Paint Correction Luminance Noise: 0.000000
+Paint Correction Moire          : 0.000000
+Paint Correction Saturation     : -0.109000
+Paint Correction Shadows 2012   : 0.000000
+Paint Correction Sharpness      : 0.000000
+Paint Correction Temperature    : -0.241710
+Paint Correction Tint           : 0.000000
+Paint Correction Toning Hue     : 0.000000
+Paint Correction Toning Saturation: 0.000000
+Paint Correction What           : Correction
+Parametric Darks                : 0
+Parametric Highlight Split      : 75
+Parametric Highlights           : 0
+Parametric Lights               : 0
+Parametric Midtone Split        : 60
+Parametric Shadow Split         : 14
+Parametric Shadows              : 0
+Perspective Aspect              : 0
+Perspective Horizontal          : 0
+Perspective Rotate              : 0.0
+Perspective Scale               : 100
+Perspective Upright             : Off
+Perspective Vertical            : 0
+Perspective X                   : 0.00
+Perspective Y                   : 0.00
+Post Crop Vignette Amount       : -17
+Post Crop Vignette Feather      : 50
+Post Crop Vignette Highlight Contrast: 0
+Post Crop Vignette Midpoint     : 50
+Post Crop Vignette Roundness    : 0
+Post Crop Vignette Style        : Highlight Priority
+Process Version                 : 11.0
+Raw File Name                   : DSC01781.ARW
+Red Hue                         : +15
+Red Saturation                  : +15
+Retouch Area Feather            : 0.100000
+Retouch Area Mask Center Weight : 0.500000
+Retouch Area Mask Dabs          : d 0.805087 0.856813
+Retouch Area Mask Flow          : 1.000000
+Retouch Area Mask Value         : 1.000000
+Retouch Area Mask Radius        : 0.010463
+Retouch Area Mask What          : Mask/Paint
+Retouch Area Method             : gaussian
+Retouch Area Offset Y           : 0.651163
+Retouch Area Opacity            : 1.000000
+Retouch Area Seed               : +2
+Retouch Area Source State       : sourceAutoComputed
+Retouch Area Source X           : 0.834507
+Retouch Area Spot Type          : heal
+Saturation                      : +4
+Saturation Adjustment Aqua      : -100
+Saturation Adjustment Blue      : -54
+Saturation Adjustment Green     : -64
+Saturation Adjustment Magenta   : -59
+Saturation Adjustment Orange    : +29
+Saturation Adjustment Purple    : -100
+Saturation Adjustment Red       : -6
+Saturation Adjustment Yellow    : -56
+Shadow Tint                     : 0
+Shadows 2012                    : +18
+Sharpen Detail                  : 25
+Sharpen Edge Masking            : 51
+Sharpen Radius                  : +1.0
+Sharpness                       : 61
+Split Toning Balance            : 0
+Split Toning Highlight Hue      : 0
+Split Toning Highlight Saturation: 0
+Split Toning Shadow Hue         : 0
+Split Toning Shadow Saturation  : 0
+Color Temperature               : 7192
+Tint                            : +9
+Tone Curve Name 2012            : Custom
+Tone Curve PV2012               : 0, 26, 57, 67, 210, 195, 255, 241
+Tone Curve PV2012 Blue          : 0, 0, 42, 23, 116, 122, 178, 203, 255, 255
+Tone Curve PV2012 Green         : 0, 0, 43, 22, 113, 123, 178, 203, 255, 255
+Tone Curve PV2012 Red           : 0, 0, 43, 20, 113, 123, 178, 203, 255, 255
+Version                         : 13.2
+Vibrance                        : +23
+Vignette Amount                 : 0
+White Balance                   : Custom
+Whites 2012                     : -25
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+Image Width                     : 1500
+Image Height                    : 2250
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 1500x2250
+Megapixels                      : 3.4
+Date/Time Created               : 2021:05:30 18:19:59+00:00
+Digital Creation Date/Time      : 2021:05:30 18:19:59+00:00
+Date/Time Original              : 2021:05:30 18:19:59+00:00
+Lens ID                         : 35mm F1.4 DG HSM | Art 012

@@ -1,0 +1,374 @@
+ExifTool Version Number         : 13.03
+File Name                       : lake.jpg
+Directory                       : .
+File Size                       : 912 kB
+File Modification Date/Time     : 2024:11:20 17:35:54+02:00
+File Access Date/Time           : 2024:11:20 17:36:01+02:00
+File Inode Change Date/Time     : 2024:11:20 17:35:54+02:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+Current IPTC Digest             : 4ad394018b6379c2ccc758c6a5ebc30b
+Application Record Version      : 0
+Time Created                    : 18:44:00+00:00
+IPTC Digest                     : 4ad394018b6379c2ccc758c6a5ebc30b
+X Resolution                    : 240
+Displayed Units X               : inches
+Y Resolution                    : 240
+Displayed Units Y               : inches
+Print Style                     : Centered
+Print Position                  : 0 0
+Print Scale                     : 1
+Global Angle                    : 30
+Global Altitude                 : 30
+URL List                        : 
+Slices Group Name               : bled-6
+Num Slices                      : 1
+Pixel Aspect Ratio              : 1
+Photoshop Thumbnail             : (Binary data 3891 bytes, use -b option to extract)
+Has Real Merged Data            : Yes
+Writer Name                     : Adobe Photoshop
+Reader Name                     : Adobe Photoshop CC 2019
+Photoshop Quality               : 10
+Photoshop Format                : Standard
+Profile CMM Type                : Unknown (KCMS)
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:12:01 18:58:21
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Kodak
+Device Model                    : ROMM
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82487
+Profile Creator                 : Kodak
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) Eastman Kodak Company, 1999, all rights reserved.
+Profile Description             : ProPhoto RGB
+Media White Point               : 0.9642 1 0.82489
+Red Tone Reproduction Curve     : (Binary data 14 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 14 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 14 bytes, use -b option to extract)
+Red Matrix Column               : 0.79767 0.28804 0
+Green Matrix Column             : 0.13519 0.71188 0
+Blue Matrix Column              : 0.03134 9e-05 0.82491
+Device Mfg Desc                 : KODAK
+Device Model Desc               : Reference Output Medium Metric(ROMM)
+Make And Model                  : (Binary data 40 bytes, use -b option to extract)
+XMP Toolkit                     : Adobe XMP Core 5.6-c145 79.163499, 2018/08/13-16:40:22
+Rating                          : 0
+Label                           : Slovenia
+Creator Tool                    : Adobe Photoshop Lightroom Classic 7.3 (Windows)
+Create Date                     : 2018:05:15 18:44
+Modify Date                     : 2019:09:14 18:14:05+01:00
+Metadata Date                   : 2019:09:14 18:14:05+01:00
+Serial Number                   : 8002426
+Lens Info                       : 100-400mm f/4.5-6.3
+Lens                            : 100.0-400.0 mm f/4.5-6.3
+Image Number                    : 35385
+Approximate Focus Distance      : infinity
+Date Created                    : 2018:05:15 18:44:00.008
+Legacy IPTC Digest              : BCBCF1ED88669ED1F541AEB4560C1117
+Color Mode                      : RGB
+ICC Profile Name                : ProPhoto RGB
+Document ID                     : adobe:docid:photoshop:af73c8da-740b-d843-a806-cecb4229d10e
+Original Document ID            : FEE7DE12773251A1197A92320BB388B1
+Instance ID                     : xmp.iid:061331dd-5ccc-f540-85b8-01c0c45ba96a
+Preserved File Name             : bled.jpg
+Format                          : image/jpeg
+Version                         : 11.4
+Process Version                 : 11.0
+White Balance                   : Custom
+Incremental Temperature         : +1
+Incremental Tint                : -8
+Saturation                      : 0
+Sharpness                       : 0
+Luminance Smoothing             : 0
+Color Noise Reduction           : 0
+Vignette Amount                 : 0
+Shadow Tint                     : 0
+Red Hue                         : 0
+Red Saturation                  : 0
+Green Hue                       : 0
+Green Saturation                : 0
+Blue Hue                        : 0
+Blue Saturation                 : 0
+Vibrance                        : 0
+Hue Adjustment Red              : 0
+Hue Adjustment Orange           : 0
+Hue Adjustment Yellow           : -58
+Hue Adjustment Green            : 0
+Hue Adjustment Aqua             : -18
+Hue Adjustment Blue             : 0
+Hue Adjustment Purple           : 0
+Hue Adjustment Magenta          : +9
+Saturation Adjustment Red       : 0
+Saturation Adjustment Orange    : 0
+Saturation Adjustment Yellow    : 0
+Saturation Adjustment Green     : -100
+Saturation Adjustment Aqua      : -69
+Saturation Adjustment Blue      : -14
+Saturation Adjustment Purple    : -100
+Saturation Adjustment Magenta   : -100
+Luminance Adjustment Red        : -49
+Luminance Adjustment Orange     : 0
+Luminance Adjustment Yellow     : +35
+Luminance Adjustment Green      : -1
+Luminance Adjustment Aqua       : +37
+Luminance Adjustment Blue       : +23
+Luminance Adjustment Purple     : 0
+Luminance Adjustment Magenta    : 0
+Split Toning Shadow Hue         : 0
+Split Toning Shadow Saturation  : 0
+Split Toning Highlight Hue      : 0
+Split Toning Highlight Saturation: 0
+Split Toning Balance            : 0
+Parametric Shadows              : 0
+Parametric Darks                : 0
+Parametric Lights               : 0
+Parametric Highlights           : 0
+Parametric Shadow Split         : 25
+Parametric Midtone Split        : 50
+Parametric Highlight Split      : 75
+Sharpen Radius                  : +1.0
+Sharpen Detail                  : 25
+Sharpen Edge Masking            : 0
+Post Crop Vignette Amount       : 0
+Grain Amount                    : 0
+Lens Profile Enable             : 0
+Lens Manual Distortion Amount   : 0
+Perspective Vertical            : 0
+Perspective Horizontal          : 0
+Perspective Rotate              : 0.0
+Perspective Scale               : 100
+Perspective Aspect              : 0
+Perspective Upright             : Off
+Perspective X                   : 0.00
+Perspective Y                   : 0.00
+Auto Lateral CA                 : 0
+Exposure 2012                   : +0.82
+Contrast 2012                   : +15
+Highlights 2012                 : -54
+Shadows 2012                    : +14
+Whites 2012                     : 0
+Blacks 2012                     : +20
+Clarity 2012                    : -7
+Defringe Purple Amount          : 0
+Defringe Purple Hue Lo          : 30
+Defringe Purple Hue Hi          : 70
+Defringe Green Amount           : 0
+Defringe Green Hue Lo           : 40
+Defringe Green Hue Hi           : 60
+Dehaze                          : 0
+Texture                         : 0
+Tone Map Strength               : 0
+Convert To Grayscale            : False
+Override Look Vignette          : False
+Tone Curve Name                 : Linear
+Tone Curve Name 2012            : Custom
+Camera Profile                  : Embedded
+Camera Profile Digest           : 54650A341B5B5CCAE8442D0B43A92BCE
+Lens Profile Setup              : LensDefaults
+Upright Version                 : 151388160
+Upright Center Mode             : 0
+Upright Center Norm X           : 0.5
+Upright Center Norm Y           : 0.5
+Upright Focal Mode              : 0
+Upright Focal Length 35mm       : 35
+Upright Preview                 : False
+Upright Transform Count         : 6
+Upright Four Segments Count     : 0
+Has Settings                    : True
+Crop Top                        : 0
+Crop Left                       : 0.020113
+Crop Bottom                     : 0.969202
+Crop Right                      : 0.989315
+Crop Angle                      : 0
+Crop Constrain To Warp          : 0
+Has Crop                        : True
+Already Applied                 : True
+Raw File Name                   : bled.jpg
+History Action                  : derived, saved, derived, saved, saved, converted, derived, saved
+History Parameters              : converted from image/x-nikon-nef to image/jpeg, saved to new location, converted from image/jpeg to image/tiff, from image/tiff to image/jpeg, converted from image/tiff to image/jpeg
+History Instance ID             : xmp.iid:866635b2-622b-2042-82af-c8f297ac69b9, xmp.iid:4b2e43d9-4412-544a-b636-77454babbae5, xmp.iid:bf8b17fe-3284-194b-b8cf-7bc7b278dff7, xmp.iid:061331dd-5ccc-f540-85b8-01c0c45ba96a
+History When                    : 2018:07:28 22:17:07+01:00, 2019:09:14 18:11:59+01:00, 2019:09:14 18:14:05+01:00, 2019:09:14 18:14:05+01:00
+History Software Agent          : Adobe Photoshop Lightroom Classic 7.3 (Windows), Adobe Photoshop Camera Raw 11.4 (Windows), Adobe Photoshop CC 2019 (Windows), Adobe Photoshop CC 2019 (Windows)
+History Changed                 : /, /, /, /
+Derived From Instance ID        : xmp.iid:bf8b17fe-3284-194b-b8cf-7bc7b278dff7
+Derived From Document ID        : xmp.did:4b2e43d9-4412-544a-b636-77454babbae5
+Derived From Original Document ID: FEE7DE12773251A1197A92320BB388B1
+Tone Curve                      : 0, 0, 255, 255
+Tone Curve Red                  : 0, 0, 255, 255
+Tone Curve Green                : 0, 0, 255, 255
+Tone Curve Blue                 : 0, 0, 255, 255
+Tone Curve PV2012               : 0, 0, 45, 40, 255, 255
+Tone Curve PV2012 Red           : 0, 0, 255, 255
+Tone Curve PV2012 Green         : 0, 0, 255, 255
+Tone Curve PV2012 Blue          : 0, 0, 255, 255
+Retouch Area Heal Version       : +2
+Retouch Area Mask Radius        : 0.058075
+Retouch Area Mask Flow          : 1.000000
+Retouch Area Mask Center Weight : 0.500000
+Retouch Area Mask Dabs          : d 0.688087 0.909539
+Retouch Area Spot Type          : heal
+Retouch Area Source State       : sourceAutoComputed
+Retouch Area Method             : gaussian
+Retouch Area Source X           : 0.513944
+Retouch Area Offset Y           : 0.689800
+Retouch Area Opacity            : 1.000000
+Retouch Area Feather            : 0.724000
+Retouch Area Seed               : +2
+Retouch Area Mask What          : Mask/Ellipse
+Retouch Area Mask Value         : 1.000000
+Retouch Area Mask X             : 0.513944
+Retouch Area Mask Y             : 0.701581
+Retouch Area Mask Size X        : 0.004867
+Retouch Area Mask Size Y        : 0.004867
+Retouch Area Mask Alpha         : 0.000000
+Retouch Area Mask Center Value  : 1.000000
+Retouch Area Mask Perimeter Value: 0.000000
+Retouch Info                    : centerX = 0.513944, centerY = 0.701581, radius = 0.004867, sourceState = sourceAutoComputed, sourceX = 0.513944, sourceY = 0.689800, spotType = heal
+Paint Correction Range Mask Version: +2, +2, +2
+Paint Correction Range Mask Type: 0, 0, 0
+Paint Correction Range Mask Color Amount: 0.500000, 0.500000, 0.500000
+Paint Correction Range Mask Lum Min: 0.000000, 0.000000, 0.000000
+Paint Correction Range Mask Lum Max: 1.000000, 1.000000, 1.000000
+Paint Correction Range Mask Lum Feather: 0.500000, 0.500000, 0.500000
+Paint Correction Range Mask Depth Min: 0.000000, 0.000000, 0.000000
+Paint Correction Range Mask Depth Max: 1.000000, 1.000000, 1.000000
+Paint Correction Range Mask Depth Feather: 0.500000, 0.500000, 0.500000
+Paint Correction What           : Correction
+Paint Correction Amount         : 1.000000
+Paint Correction Active         : true
+Paint Correction Exposure       : 0.000000
+Paint Correction Saturation     : 0.023700
+Paint Correction Contrast       : 0.000000
+Paint Correction Clarity        : 0.000000
+Paint Correction Sharpness      : 0.000000
+Paint Correction Brightness     : 0.000000
+Paint Correction Toning Hue     : 0.000000
+Paint Correction Toning Saturation: 0.000000
+Paint Correction Exposure 2012  : 0.000000
+Paint Correction Contrast 2012  : 0.000000
+Paint Correction Highlights 2012: 0.000000
+Paint Correction Shadows 2012   : 0.000000
+Paint Correction Whites 2012    : 0.000000
+Paint Correction Blacks 2012    : 0.000000
+Paint Correction Clarity 2012   : 0.000000
+Paint Correction Dehaze         : 0.000000
+Paint Correction Luminance Noise: 0.000000
+Paint Correction Moire          : 0.000000
+Paint Correction Defringe       : 0.000000
+Paint Correction Temperature    : 0.000000
+Paint Correction Tint           : 0.000000
+Paint Correction Texture        : 0.000000
+Paint Correction Mask What      : Mask/Paint
+Paint Correction Mask Value     : 1.000000
+Paint Correction Mask Radius    : 0.046954
+Paint Correction Mask Flow      : 1.000000
+Paint Correction Mask Center Weight: 0.000000
+Paint Correction Mask Dabs      : d 0.581388 0.793620
+Gradient Based Corr Range Mask Version: +2, +2, +2, +2, +2
+Gradient Based Corr Range Mask Type: 0, 0, 0, 0, 0
+Gradient Based Corr Range Mask Color Amount: 0.500000, 0.500000, 0.500000, 0.500000, 0.500000
+Gradient Based Corr Range Mask Lum Min: 0.000000, 0.000000, 0.000000, 0.000000, 0.000000
+Gradient Based Corr Range Mask Lum Max: 1.000000, 1.000000, 1.000000, 1.000000, 1.000000
+Gradient Based Corr Range Mask Lum Feather: 0.500000, 0.500000, 0.500000, 0.500000, 0.500000
+Gradient Based Corr Range Mask Depth Min: 0.000000, 0.000000, 0.000000, 0.000000, 0.000000
+Gradient Based Corr Range Mask Depth Max: 1.000000, 1.000000, 1.000000, 1.000000, 1.000000
+Gradient Based Corr Range Mask Depth Feather: 0.500000, 0.500000, 0.500000, 0.500000, 0.500000
+Gradient Based Corr What        : Correction
+Gradient Based Corr Amount      : 1.000000
+Gradient Based Corr Active      : true
+Gradient Based Corr Exposure    : 0.000000
+Gradient Based Corr Saturation  : 0.000000
+Gradient Based Corr Contrast    : 0.000000
+Gradient Based Corr Clarity     : 0.000000
+Gradient Based Corr Sharpness   : 0.000000
+Gradient Based Corr Brightness  : 0.000000
+Gradient Based Corr Toning Hue  : 0.000000
+Gradient Based Corr Toning Saturation: 0.000000
+Gradient Based Corr Exposure 2012: 0.137500
+Gradient Based Corr Contrast 2012: 0.000000
+Gradient Based Corr Highlights 2012: 0.000000
+Gradient Based Corr Shadows 2012: 0.000000
+Gradient Based Corr Whites 2012 : 0.000000
+Gradient Based Corr Blacks 2012 : 0.000000
+Gradient Based Corr Clarity 2012: 0.000000
+Gradient Based Corr Dehaze      : 0.000000
+Gradient Based Corr Luminance Noise: 0.000000
+Gradient Based Corr Moire       : 0.000000
+Gradient Based Corr Defringe    : 0.000000
+Gradient Based Corr Temperature : 0.000000
+Gradient Based Corr Tint        : 0.000000
+Gradient Based Corr Texture     : 0.000000
+Gradient Based Corr Mask What   : Mask/Gradient
+Gradient Based Corr Mask Value  : 1.000000
+Gradient Based Corr Mask Zero X : 0.366179
+Gradient Based Corr Mask Zero Y : 0.485100
+Gradient Based Corr Mask Full X : 0.303418
+Gradient Based Corr Mask Full Y : 0.093100
+Circ Grad Based Corr Range Mask Version: +2, +2, +2
+Circ Grad Based Corr Range Mask Type: 0, 0, 0
+Circ Grad Based Corr Range Mask Color Amount: 0.500000, 0.500000, 0.500000
+Circ Grad Based Corr Range Mask Lum Min: 0.000000, 0.000000, 0.000000
+Circ Grad Based Corr Range Mask Lum Max: 1.000000, 1.000000, 1.000000
+Circ Grad Based Corr Range Mask Lum Feather: 0.500000, 0.500000, 0.500000
+Circ Grad Based Corr Range Mask Depth Min: 0.000000, 0.000000, 0.000000
+Circ Grad Based Corr Range Mask Depth Max: 1.000000, 1.000000, 1.000000
+Circ Grad Based Corr Range Mask Depth Feather: 0.500000, 0.500000, 0.500000
+Circ Grad Based Corr What       : Correction
+Circ Grad Based Corr Amount     : 1.000000
+Circ Grad Based Corr Active     : true
+Circ Grad Based Corr Exposure   : 0.000000
+Circ Grad Based Corr Saturation : 0.000000
+Circ Grad Based Corr Contrast   : 0.000000
+Circ Grad Based Corr Clarity    : 0.000000
+Circ Grad Based Corr Sharpness  : 0.000000
+Circ Grad Based Corr Brightness : 0.000000
+Circ Grad Based Corr Toning Hue : 0.000000
+Circ Grad Based Corr Toning Saturation: 0.000000
+Circ Grad Based Corr Exposure 2012: 0.000000
+Circ Grad Based Corr Contrast 2012: 0.000000
+Circ Grad Based Corr Highlights 2012: 0.000000
+Circ Grad Based Corr Shadows 2012: 0.000000
+Circ Grad Based Corr Whites 2012: 0.000000
+Circ Grad Based Corr Blacks 2012: 0.000000
+Circ Grad Based Corr Clarity 2012: 0.000000
+Circ Grad Based Corr Dehaze     : 0.000000
+Circ Grad Based Corr Luminance Noise: 0.000000
+Circ Grad Based Corr Moire      : 0.000000
+Circ Grad Based Corr Defringe   : 0.000000
+Circ Grad Based Corr Temperature: 0.000000
+Circ Grad Based Corr Tint       : -0.090050
+Circ Grad Based Corr Texture    : 0.000000
+Circ Grad Based Corr Mask What  : Mask/CircularGradient
+Circ Grad Based Corr Mask Value : 1.000000
+Circ Grad Based Corr Mask Top   : 0.732782
+Circ Grad Based Corr Mask Left  : -0.133633
+Circ Grad Based Corr Mask Bottom: 0.923365
+Circ Grad Based Corr Mask Right : 1.153610
+Circ Grad Based Corr Mask Angle : 0.000000
+Circ Grad Based Corr Mask Midpoint: +50
+Circ Grad Based Corr Mask Roundness: 0
+Circ Grad Based Corr Mask Feather: +50
+Circ Grad Based Corr Mask Flipped: true
+Circ Grad Based Corr Mask Version: +2
+Image Width                     : 2500
+Image Height                    : 3125
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 2500x3125
+Megapixels                      : 7.8
+Date/Time Created               : 2018:05:15 18:44:00+00:00
+Date/Time Original              : 2018:05:15 18:44:00+00:00
+Lens ID                         : 100.0-400.0mm f/4.5-6.3
