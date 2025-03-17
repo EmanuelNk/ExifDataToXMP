@@ -1,0 +1,87 @@
+ExifTool Version Number         : 13.03
+File Name                       : mart2.jpg
+Directory                       : .
+File Size                       : 248 kB
+File Modification Date/Time     : 2025:03:10 16:56:06+02:00
+File Access Date/Time           : 2025:03:10 16:56:24+02:00
+File Inode Change Date/Time     : 2025:03:10 16:56:22+02:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Little-endian (Intel, II)
+X Resolution                    : 240
+Y Resolution                    : 240
+Resolution Unit                 : inches
+Copyright                       : Martin Lindner - All Rights Reserved
+Exif Version                    : 0232
+Color Space                     : sRGB
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 264
+Thumbnail Length                : 12855
+Displayed Units X               : inches
+Displayed Units Y               : inches
+Current IPTC Digest             : 38ca9fb763920fdb16cfdab135c73a12
+Coded Character Set             : UTF8
+Application Record Version      : 4
+Copyright Notice                : Martin Lindner - All Rights Reserved
+Photoshop Thumbnail             : (Binary data 12855 bytes, use -b option to extract)
+IPTC Digest                     : 38ca9fb763920fdb16cfdab135c73a12
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+XMP Toolkit                     : Adobe XMP Core 7.0-c000 1.000000, 0000/00/00-00:00:00
+Original Document ID            : 838A91B3C6C04C0471447E135A623919
+Document ID                     : xmp.did:cee9b17b-4da1-4559-88e7-2e6caa264b55
+Instance ID                     : xmp.iid:cee9b17b-4da1-4559-88e7-2e6caa264b55
+Metadata Date                   : 2024:07:26 13:33:20+02:00
+Rights                          : Martin Lindner - All Rights Reserved
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14], Encoded with Blend=1 downsampling
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 800
+Image Height                    : 1000
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 800x1000
+Megapixels                      : 0.800
+Thumbnail Image                 : (Binary data 12855 bytes, use -b option to extract)

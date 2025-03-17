@@ -1,0 +1,276 @@
+ExifTool Version Number         : 13.03
+File Name                       : ay2.jpg
+Directory                       : .
+File Size                       : 147 kB
+File Modification Date/Time     : 2025:03:10 17:05:46+02:00
+File Access Date/Time           : 2025:03:10 17:06:40+02:00
+File Inode Change Date/Time     : 2025:03:10 17:05:52+02:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Exif Byte Order                 : Little-endian (Intel, II)
+Make                            : Canon
+Camera Model Name               : Canon EOS 90D
+X Resolution                    : 300
+Y Resolution                    : 300
+Resolution Unit                 : inches
+Software                        : Adobe Photoshop Lightroom Classic 12.5 (Macintosh)
+Modify Date                     : 2023:09:25 21:37:58
+Artist                          : Matthew Solie
+Copyright                       : ©Matt Solie 2023
+Exposure Time                   : 1/500
+F Number                        : 4.5
+Exposure Program                : Action (High speed)
+ISO                             : 2000
+Sensitivity Type                : Recommended Exposure Index
+Recommended Exposure Index      : 2000
+Exif Version                    : 0231
+Date/Time Original              : 2023:09:25 20:44:53
+Create Date                     : 2023:09:25 20:44:53
+Offset Time                     : -07:00
+Offset Time Original            : +00:00
+Offset Time Digitized           : +00:00
+Shutter Speed Value             : 1/500
+Aperture Value                  : 4.5
+Exposure Compensation           : 0
+Max Aperture Value              : 4.6
+Metering Mode                   : Multi-segment
+Flash                           : No Flash
+Focal Length                    : 42.0 mm
+Sub Sec Time Original           : 27
+Sub Sec Time Digitized          : 27
+Color Space                     : sRGB
+Focal Plane X Resolution        : 3118.922852
+Focal Plane Y Resolution        : 3118.922852
+Focal Plane Resolution Unit     : cm
+Custom Rendered                 : Normal
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Scene Capture Type              : Standard
+Serial Number                   : 092052000268
+Lens Info                       : 18-400mm f/?
+Lens Model                      : TAMRON 18-400mm F/3.5-6.3 Di II VC HLD B028
+Lens Serial Number              : 0000000000
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 1038
+Thumbnail Length                : 14690
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+Current IPTC Digest             : 9d6fc8fc581e914ab3c582a437e3e4ac
+Coded Character Set             : UTF8
+Application Record Version      : 4
+Time Created                    : 20:44:53+00:00
+Digital Creation Date           : 2023:09:25
+Digital Creation Time           : 20:44:53+00:00
+By-line                         : Matthew Solie
+Copyright Notice                : ©Matt Solie 2023
+XMP Toolkit                     : Adobe XMP Core 7.0-c000 1.000000, 0000/00/00-00:00:00
+Creator Tool                    : Adobe Photoshop Lightroom Classic 12.5 (Macintosh)
+Metadata Date                   : 2023:09:25 21:37:58-07:00
+Lens                            : TAMRON 18-400mm F/3.5-6.3 Di II VC HLD B028
+Image Number                    : 0
+Approximate Focus Distance      : 14
+Flash Compensation              : 0
+Firmware                        : 1.1.1
+Lateral Chromatic Aberration Correction Already Applied: True
+Date Created                    : 2023:09:25 20:44:53.27Z
+Document ID                     : xmp.did:5fdc0ddc-14a4-4054-bd4c-185e23618bb7
+Preserved File Name             : IMG_6792.CR3
+Original Document ID            : 21B2274C370DEDD71CD0062DD4DE5F07
+Instance ID                     : xmp.iid:5fdc0ddc-14a4-4054-bd4c-185e23618bb7
+Format                          : image/jpeg
+Raw File Name                   : 230925_MSOLIE_022.CR3
+Version                         : 15.5
+Process Version                 : 15.4
+Color Temperature               : 5206
+Tint                            : +14
+Exposure 2012                   : -0.10
+Contrast 2012                   : +47
+Highlights 2012                 : -51
+Shadows 2012                    : +83
+Whites 2012                     : +31
+Blacks 2012                     : +29
+Texture                         : -4
+Clarity 2012                    : -32
+Dehaze                          : -25
+Vibrance                        : +24
+Saturation                      : +2
+Parametric Shadows              : 0
+Parametric Darks                : 0
+Parametric Lights               : 0
+Parametric Highlights           : 0
+Parametric Shadow Split         : 25
+Parametric Midtone Split        : 50
+Parametric Highlight Split      : 75
+Sharpness                       : 32
+Sharpen Radius                  : +1.0
+Sharpen Detail                  : 25
+Sharpen Edge Masking            : 0
+Luminance Smoothing             : 0
+Color Noise Reduction           : 25
+Color Noise Reduction Detail    : 50
+Color Noise Reduction Smoothness: 50
+Hue Adjustment Red              : +4
+Hue Adjustment Orange           : -13
+Hue Adjustment Yellow           : 0
+Hue Adjustment Green            : +3
+Hue Adjustment Aqua             : +49
+Hue Adjustment Blue             : -20
+Hue Adjustment Purple           : 0
+Hue Adjustment Magenta          : -3
+Saturation Adjustment Red       : -1
+Saturation Adjustment Orange    : -25
+Saturation Adjustment Yellow    : -34
+Saturation Adjustment Green     : -68
+Saturation Adjustment Aqua      : -32
+Saturation Adjustment Blue      : -19
+Saturation Adjustment Purple    : -21
+Saturation Adjustment Magenta   : -17
+Luminance Adjustment Red        : 0
+Luminance Adjustment Orange     : -2
+Luminance Adjustment Yellow     : 0
+Luminance Adjustment Green      : -5
+Luminance Adjustment Aqua       : 0
+Luminance Adjustment Blue       : -4
+Luminance Adjustment Purple     : +1
+Luminance Adjustment Magenta    : +1
+Split Toning Shadow Hue         : 0
+Split Toning Shadow Saturation  : 15
+Split Toning Highlight Hue      : 195
+Split Toning Highlight Saturation: 7
+Split Toning Balance            : 0
+Color Grade Midtone Hue         : 0
+Color Grade Midtone Sat         : 0
+Color Grade Shadow Lum          : 0
+Color Grade Midtone Lum         : 0
+Color Grade Highlight Lum       : 0
+Color Grade Blending            : 100
+Color Grade Global Hue          : 0
+Color Grade Global Sat          : 0
+Color Grade Global Lum          : 0
+Auto Lateral CA                 : 1
+Lens Profile Enable             : 0
+Lens Manual Distortion Amount   : 0
+Vignette Amount                 : 0
+Defringe Purple Amount          : 0
+Defringe Purple Hue Lo          : 30
+Defringe Purple Hue Hi          : 70
+Defringe Green Amount           : 0
+Defringe Green Hue Lo           : 40
+Defringe Green Hue Hi           : 60
+Perspective Upright             : Off
+Perspective Vertical            : 0
+Perspective Horizontal          : 0
+Perspective Rotate              : 0.0
+Perspective Aspect              : 0
+Perspective Scale               : 100
+Perspective X                   : 0.00
+Perspective Y                   : 0.00
+Grain Amount                    : 0
+Post Crop Vignette Amount       : -18
+Post Crop Vignette Midpoint     : 50
+Post Crop Vignette Feather      : 50
+Post Crop Vignette Roundness    : 0
+Post Crop Vignette Style        : Highlight Priority
+Post Crop Vignette Highlight Contrast: 0
+Shadow Tint                     : 0
+Red Hue                         : +42
+Red Saturation                  : +27
+Green Hue                       : +32
+Green Saturation                : 0
+Blue Hue                        : -10
+Blue Saturation                 : 0
+Curve Refine Saturation         : 100
+Convert To Grayscale            : False
+Override Look Vignette          : True
+Tone Curve Name 2012            : Custom
+Camera Profile                  : Adobe Standard
+Camera Profile Digest           : 418DA6060FE18E4AB89CD15B15C9353B
+Has Settings                    : True
+Crop Top                        : 0
+Crop Left                       : 0
+Crop Bottom                     : 1
+Crop Right                      : 1
+Crop Angle                      : 0
+Crop Constrain To Warp          : 0
+Has Crop                        : False
+Already Applied                 : True
+History Action                  : derived, saved
+History Parameters              : converted from image/x-canon-cr3 to image/jpeg, saved to new location
+History Instance ID             : xmp.iid:5fdc0ddc-14a4-4054-bd4c-185e23618bb7
+History When                    : 2023:09:25 21:37:58-07:00
+History Software Agent          : Adobe Photoshop Lightroom Classic 12.5 (Macintosh)
+History Changed                 : /
+Derived From Document ID        : 21B2274C370DEDD71CD0062DD4DE5F07
+Derived From Original Document ID: 21B2274C370DEDD71CD0062DD4DE5F07
+Creator                         : Matthew Solie
+Rights                          : ©Matt Solie 2023
+Creator Work Email              : ayitsphotography@gmail.com
+Creator Work URL                : msolie.com
+Tone Curve PV2012               : 1, 49, 69, 60, 111, 87, 182, 158, 254, 253
+Tone Curve PV2012 Red           : 0, 0, 37, 10, 82, 49, 126, 123, 180, 191, 255, 255
+Tone Curve PV2012 Green         : 0, 0, 33, 10, 74, 46, 125, 126, 177, 192, 255, 255
+Tone Curve PV2012 Blue          : 0, 0, 32, 9, 73, 46, 125, 121, 185, 201, 255, 255
+Image Width                     : 768
+Image Height                    : 1152
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Aperture                        : 4.5
+Image Size                      : 768x1152
+Megapixels                      : 0.885
+Scale Factor To 35 mm Equivalent: 9.7
+Shutter Speed                   : 1/500
+Create Date                     : 2023:09:25 20:44:53.27+00:00
+Date/Time Original              : 2023:09:25 20:44:53.27+00:00
+Modify Date                     : 2023:09:25 21:37:58-07:00
+Thumbnail Image                 : (Binary data 14690 bytes, use -b option to extract)
+Date/Time Created               : 2023:09:25 20:44:53+00:00
+Digital Creation Date/Time      : 2023:09:25 20:44:53+00:00
+Circle Of Confusion             : 0.003 mm
+Depth Of Field                  : 3.11 m (12.62 - 15.73 m)
+Field Of View                   : 5.0 deg
+Focal Length                    : 42.0 mm (35 mm equivalent: 409.4 mm)
+Hyperfocal Distance             : 127.16 m
+Light Value                     : 9.0
+Lens ID                         : Tamron 18-400mm f/3.5-6.3 Di II VC HLD (B028)

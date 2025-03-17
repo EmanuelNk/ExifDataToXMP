@@ -1,0 +1,94 @@
+ExifTool Version Number         : 13.03
+File Name                       : hy2.jpg
+Directory                       : .
+File Size                       : 222 kB
+File Modification Date/Time     : 2025:03:10 16:39:05+02:00
+File Access Date/Time           : 2025:03:10 16:39:12+02:00
+File Inode Change Date/Time     : 2025:03:10 16:39:10+02:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+XMP Toolkit                     : Image::ExifTool 12.16
+Format                          : image/jpeg
+Color Class                     : 1 (Winner)
+PM Version                      : PM6
+Prefs                           : Tagged:0, ColorClass:1, Rating:0, FrameNum:006060
+Tagged                          : No
+Create Date                     : 2023:07:28 00:58:08.10-08:00
+Creator Tool                    : Adobe Photoshop Lightroom Classic 13.2 (Macintosh)
+Label                           : Purple
+Metadata Date                   : 2024:03:12 11:29:40-04:00
+Modify Date                     : 2024:03:12 11:29:40-04:00
+Rating                          : 1
+Pick                            : 0
+Derived From Document ID        : adobe:docid:photoshop:2192b1cf-d7b5-7d4f-a21d-2361ebb9157c
+Derived From Instance ID        : xmp.iid:944bad8d-9923-4e58-ae26-256a5c23dc0a
+Derived From Original Document ID: 90FCC338E973B8F208ACD2A68ABD4788
+Document ID                     : xmp.did:027cfe52-cb06-4c1b-a01b-f609963eea52
+Instance ID                     : xmp.iid:027cfe52-cb06-4c1b-a01b-f609963eea52
+Original Document ID            : 90FCC338E973B8F208ACD2A68ABD4788
+Preserved File Name             : {shortstache™}{2023}{Hyundai_SantaFe}100672.CR3
+X Resolution                    : 300
+Displayed Units X               : inches
+Y Resolution                    : 300
+Displayed Units Y               : inches
+Current IPTC Digest             : 9814705d85b147f8d5b55de3cc90b7db
+Coded Character Set             : UTF8
+Application Record Version      : 4
+Date Created                    : 2023:07:28
+Time Created                    : 00:58:08-08:00
+Digital Creation Date           : 2023:07:28
+Digital Creation Time           : 00:58:08-08:00
+Photoshop Thumbnail             : (Binary data 11819 bytes, use -b option to extract)
+IPTC Digest                     : 9814705d85b147f8d5b55de3cc90b7db
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+Image Width                     : 1500
+Image Height                    : 1001
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1500x1001
+Megapixels                      : 1.5
+Date/Time Created               : 2023:07:28 00:58:08-08:00
+Digital Creation Date/Time      : 2023:07:28 00:58:08-08:00
+Date/Time Original              : 2023:07:28 00:58:08-08:00

@@ -1,0 +1,283 @@
+ExifTool Version Number         : 13.03
+File Name                       : plate.jpg
+Directory                       : .
+File Size                       : 68 kB
+File Modification Date/Time     : 2024:11:28 11:52:59+02:00
+File Access Date/Time           : 2024:11:28 11:53:02+02:00
+File Inode Change Date/Time     : 2024:11:28 11:52:59+02:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+XMP Toolkit                     : Image::ExifTool 12.16
+Distortion Correction Already Applied: True
+Lateral Chromatic Aberration Correction Already Applied: True
+Lens                            : E 28-75mm F2.8-2.8
+Lens Distort Info               : 1047798492/1073741824 21515022/1073741824 4130905/1073741824 282196/1073741824
+Lens Info                       : 28-75mm f/2.8
+Vignette Correction Already Applied: True
+Format                          : image/jpeg
+Lens Model                      : E 28-75mm F2.8-2.8
+Create Date                     : 2023:09:06 14:28:58+02:00
+Creator Tool                    : Adobe Photoshop Lightroom Classic 12.5 (Macintosh)
+Metadata Date                   : 2023:09:07 13:15:32+02:00
+Modify Date                     : 2023:09:07 13:15:32+02:00
+Derived From Document ID        : D39BEAFF6C45C1550C4324BA1369E4C6
+Derived From Original Document ID: D39BEAFF6C45C1550C4324BA1369E4C6
+Document ID                     : xmp.did:794bb9b2-41ed-47ac-9d36-42efa38fc5a5
+History Action                  : derived, saved
+History Parameters              : converted from image/x-sony-arw to image/jpeg, saved to new location
+History Changed                 : /
+History Instance ID             : xmp.iid:794bb9b2-41ed-47ac-9d36-42efa38fc5a5
+History Software Agent          : Adobe Photoshop Lightroom Classic 12.5 (Macintosh)
+History When                    : 2023:09:07 13:15:32+02:00
+Instance ID                     : xmp.iid:794bb9b2-41ed-47ac-9d36-42efa38fc5a5
+Original Document ID            : D39BEAFF6C45C1550C4324BA1369E4C6
+Preserved File Name             : _DSC6499.ARW
+Already Applied                 : True
+Auto Lateral CA                 : 1
+Blacks 2012                     : +3
+Blue Hue                        : -10
+Blue Saturation                 : 0
+Camera Profile                  : Adobe Standard
+Camera Profile Digest           : 8231747EC38F3123A793D07144E134B4
+Clarity 2012                    : 0
+Color Grade Blending            : 50
+Color Grade Global Hue          : 0
+Color Grade Global Lum          : 0
+Color Grade Global Sat          : 0
+Color Grade Highlight Lum       : 0
+Color Grade Midtone Hue         : 0
+Color Grade Midtone Lum         : 0
+Color Grade Midtone Sat         : 0
+Color Grade Shadow Lum          : 0
+Color Noise Reduction           : 25
+Color Noise Reduction Detail    : 50
+Color Noise Reduction Smoothness: 50
+Compatible Version              : 234881024
+Contrast 2012                   : +14
+Crop Angle                      : -1.18843
+Crop Bottom                     : 0.969822
+Crop Constrain To Warp          : 0
+Crop Left                       : 0.008383
+Crop Right                      : 0.991617
+Crop Top                        : 0.030178
+Curve Refine Saturation         : 100
+Defringe Green Amount           : 0
+Defringe Green Hue Hi           : 60
+Defringe Green Hue Lo           : 40
+Defringe Purple Amount          : 0
+Defringe Purple Hue Hi          : 70
+Defringe Purple Hue Lo          : 30
+Dehaze                          : +10
+Exposure 2012                   : +0.90
+Grain Amount                    : 0
+Green Hue                       : 0
+Green Saturation                : 0
+Has Crop                        : True
+Has Settings                    : True
+Highlights 2012                 : -61
+Hue Adjustment Aqua             : 0
+Hue Adjustment Blue             : 0
+Hue Adjustment Green            : 0
+Hue Adjustment Magenta          : 0
+Hue Adjustment Orange           : 0
+Hue Adjustment Purple           : 0
+Hue Adjustment Red              : 0
+Hue Adjustment Yellow           : 0
+Lens Manual Distortion Amount   : 0
+Lens Profile Digest             : 6A91051894479F44BCA30295C4893668
+Lens Profile Distortion Scale   : 100
+Lens Profile Enable             : 1
+Lens Profile Filename           : SONY (TAMRON 28-75mm F_2.8 Di III RXD A036) - RAW.lcp
+Lens Profile Is Embedded        : False
+Lens Profile Name               : Adobe (TAMRON 28-75mm F/2.8 Di III RXD A036, SONY)
+Lens Profile Setup              : Auto
+Lens Profile Vignetting Scale   : 100
+Look Amount                     : 1
+Look Group                      : Profiles
+Look Name                       : Adobe Color
+Look Parameters Camera Profile  : Adobe Standard
+Look Parameters Convert To Grayscale: False
+Look Parameters Look Table      : E1095149FDB39D7A057BAB208837E2E1
+Look Parameters Process Version : 15.4
+Look Parameters Tone Curve PV2012: 0, 0, 22, 16, 40, 35, 127, 127, 224, 230, 240, 246, 255, 255
+Look Parameters Version         : 15.5
+Look Supports Amount            : false
+Look Supports Monochrome        : false
+Look Supports Output Referred   : false
+Look UUID                       : B952C231111CD8E0ECCF14B86BAA7077
+Luminance Adjustment Aqua       : 0
+Luminance Adjustment Blue       : 0
+Luminance Adjustment Green      : 0
+Luminance Adjustment Magenta    : 0
+Luminance Adjustment Orange     : 0
+Luminance Adjustment Purple     : 0
+Luminance Adjustment Red        : 0
+Luminance Adjustment Yellow     : 0
+Luminance Smoothing             : 0
+Mask Group Based Corr Correction Name: Masker 1, Masker 2
+Mask Group Based Corr Correction Sync ID: 5C294C7B31794E62BAC2D3BF98B4F2DC, A478DAE448784C07B75F534745F6FE38
+Mask Group Based Corr Local Curve Refine Saturation: 100
+Mask Group Based Corr Local Grain: 0
+Mask Group Based Corr Active    : true
+Mask Group Based Corr Amount    : 1
+Mask Group Based Corr Mask Angle: -1.18843
+Mask Group Based Corr Mask Bottom: 0.724986
+Mask Group Based Corr Mask Feather: 50
+Mask Group Based Corr Mask Flipped: true
+Mask Group Based Corr Mask Left : 0.243424
+Mask Group Based Corr Mask Mask Active: true
+Mask Group Based Corr Mask Mask Blend Mode: 0
+Mask Group Based Corr Mask Mask Inverted: false
+Mask Group Based Corr Mask Mask Name: Radiaal verloop 1
+Mask Group Based Corr Mask Mask Sync ID: 66CA5E3F692D4ABC8C891A9211CA14A5
+Mask Group Based Corr Mask Value: 1
+Mask Group Based Corr Mask Midpoint: 50
+Mask Group Based Corr Mask Right: 0.739195
+Mask Group Based Corr Mask Roundness: 0
+Mask Group Based Corr Mask Top  : 0.383626
+Mask Group Based Corr Mask Version: 2
+Mask Group Based Corr Mask What : Mask/CircularGradient
+Mask Group Based Corr Blacks 2012: 0
+Mask Group Based Corr Brightness: 0
+Mask Group Based Corr Clarity   : 0
+Mask Group Based Corr Clarity 2012: 0
+Mask Group Based Corr Contrast  : 0
+Mask Group Based Corr Contrast 2012: 0
+Mask Group Based Corr Defringe  : 0
+Mask Group Based Corr Dehaze    : 0
+Mask Group Based Corr Exposure  : 0
+Mask Group Based Corr Exposure 2012: 0.087039
+Mask Group Based Corr Highlights 2012: 0
+Mask Group Based Corr Hue       : 0
+Mask Group Based Corr Luminance Noise: 0
+Mask Group Based Corr Moire     : 0
+Mask Group Based Corr Saturation: 0
+Mask Group Based Corr Shadows 2012: 0
+Mask Group Based Corr Sharpness : 0
+Mask Group Based Corr Temperature: 0
+Mask Group Based Corr Texture   : 0
+Mask Group Based Corr Tint      : 0
+Mask Group Based Corr Toning Hue: 0
+Mask Group Based Corr Toning Saturation: 0
+Mask Group Based Corr Whites 2012: 0
+Mask Group Based Corr What      : Correction
+Override Look Vignette          : False
+Parametric Darks                : 0
+Parametric Highlight Split      : 75
+Parametric Highlights           : 0
+Parametric Lights               : 0
+Parametric Midtone Split        : 50
+Parametric Shadow Split         : 25
+Parametric Shadows              : 0
+Perspective Aspect              : 0
+Perspective Horizontal          : 0
+Perspective Rotate              : 0.0
+Perspective Scale               : 100
+Perspective Upright             : Off
+Perspective Vertical            : 0
+Perspective X                   : 0.00
+Perspective Y                   : 0.00
+Post Crop Vignette Amount       : 0
+Process Version                 : 15.4
+Raw File Name                   : _DSC6499.ARW
+Red Hue                         : +6
+Red Saturation                  : 0
+Saturation                      : 0
+Saturation Adjustment Aqua      : 0
+Saturation Adjustment Blue      : 0
+Saturation Adjustment Green     : 0
+Saturation Adjustment Magenta   : 0
+Saturation Adjustment Orange    : 0
+Saturation Adjustment Purple    : 0
+Saturation Adjustment Red       : 0
+Saturation Adjustment Yellow    : 0
+Shadow Tint                     : 0
+Shadows 2012                    : +44
+Sharpen Detail                  : 25
+Sharpen Edge Masking            : 0
+Sharpen Radius                  : +1.0
+Sharpness                       : 40
+Split Toning Balance            : 0
+Split Toning Highlight Hue      : 38
+Split Toning Highlight Saturation: 5
+Split Toning Shadow Hue         : 196
+Split Toning Shadow Saturation  : 4
+Color Temperature               : 6000
+Texture                         : 0
+Tint                            : +6
+Tone Curve Name 2012            : Custom
+Tone Curve PV2012               : 0, 5, 45, 39, 79, 83, 133, 147, 196, 193, 255, 223
+Tone Curve PV2012 Blue          : 0, 0, 255, 255
+Tone Curve PV2012 Green         : 0, 0, 255, 255
+Tone Curve PV2012 Red           : 0, 0, 255, 255
+Version                         : 15.5
+Vibrance                        : +15
+Vignette Amount                 : 0
+White Balance                   : As Shot
+Whites 2012                     : +10
+X Resolution                    : 240
+Displayed Units X               : inches
+Y Resolution                    : 240
+Displayed Units Y               : inches
+Current IPTC Digest             : 41962873605bc172e4163860b9ae8c72
+Coded Character Set             : UTF8
+Application Record Version      : 4
+Date Created                    : 2023:09:06
+Time Created                    : 14:28:58+02:00
+Digital Creation Date           : 2023:09:06
+Digital Creation Time           : 14:28:58+02:00
+Photoshop Thumbnail             : (Binary data 9338 bytes, use -b option to extract)
+IPTC Digest                     : 41962873605bc172e4163860b9ae8c72
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+Image Width                     : 750
+Image Height                    : 500
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 750x500
+Megapixels                      : 0.375
+Date/Time Created               : 2023:09:06 14:28:58+02:00
+Digital Creation Date/Time      : 2023:09:06 14:28:58+02:00
+Date/Time Original              : 2023:09:06 14:28:58+02:00
+Lens ID                         : E 28-75mm F2.8-2.8
